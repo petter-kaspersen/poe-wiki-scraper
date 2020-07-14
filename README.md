@@ -25,4 +25,5 @@ You can find an example in the `example_response.json` file for how the .json fi
 
 ### License
 Licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) as Gamepedia requires.
-![[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)](i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
+
+![[CC BY-NC-SA 3.0]](https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
