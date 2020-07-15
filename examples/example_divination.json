@@ -1,0 +1,3002 @@
+[
+    {
+      "name": "A Dab of Ink",
+      "stack_size": 9,
+      "drop_areas": [
+        "The Library",
+        "Academy Map",
+        "Museum Map",
+        "Scriptorium Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "A Familiar Call",
+      "stack_size": 3,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "A Mother's Parting Gift",
+      "stack_size": 6,
+      "drop_areas": ["The Imperial Gardens", "The High Gardens"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "A Note in the Wind",
+      "stack_size": 4,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "Abandoned Wealth",
+      "stack_size": 5,
+      "drop_areas": ["Arsenal Map", "Precinct Map", "Mao Kun"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Akil's Prophecy",
+      "stack_size": 3,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "Alluring Bounty",
+      "stack_size": 7,
+      "drop_areas": ["The Apex of Sacrifice", "The Alluring Abyss"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Alone in the Darkness",
+      "stack_size": 5,
+      "drop_areas": null,
+      "drop_restrictions": "Can drop from an Abyssal Trove."
+    },
+    {
+      "name": "Anarchy's Price",
+      "stack_size": 13,
+      "drop_areas": null,
+      "drop_restrictions": "This item can drop from Rogue Exiles and the prophecy chain Anarchy's End."
+    },
+    {
+      "name": "Arrogance of the Vaal",
+      "stack_size": 8,
+      "drop_areas": ["Ancient City Map", "Sunken City Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Assassin's Favour",
+      "stack_size": 9,
+      "drop_areas": [
+        "The Marketplace",
+        "The Quay",
+        "Alleyways Map",
+        "Arcade Map",
+        "Bazaar Map",
+        "Park Map",
+        "Port Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Atziri's Arsenal",
+      "stack_size": 4,
+      "drop_areas": ["Vaults of Atziri"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Audacity",
+      "stack_size": 5,
+      "drop_areas": ["The Apex of Sacrifice"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Azyran's Reward",
+      "stack_size": 9,
+      "drop_areas": ["Relic Chambers Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Baited Expectations",
+      "stack_size": 8,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "Beauty Through Death",
+      "stack_size": 5,
+      "drop_areas": ["Vaal Temple Map"],
+      "drop_restrictions": "K'aj A'alai"
+    },
+    {
+      "name": "Blessing of God",
+      "stack_size": 3,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "Blind Venture",
+      "stack_size": 7,
+      "drop_areas": [
+        "The Reliquary (Act 5)",
+        "The Reliquary (Act 10)",
+        "Museum Map",
+        "Relic Chambers Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Boon of Justice",
+      "stack_size": 6,
+      "drop_areas": ["Chateau Map", "Orchard Map", "Plaza Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Boon of the First Ones",
+      "stack_size": 6,
+      "drop_areas": ["Pit of the Chimera Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Boundless Realms",
+      "stack_size": 4,
+      "drop_areas": [
+        "The Solaris Temple Level 1 (Act 8)",
+        "The Solaris Temple Level 2 (Act 8)",
+        "Ivory Temple Map",
+        "Temple Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Bowyer's Dream",
+      "stack_size": 6,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "Buried Treasure",
+      "stack_size": 3,
+      "drop_areas": [
+        "Crystal Ore Map",
+        "Dig Map",
+        "Excavation Map",
+        "Flooded Mine Map",
+        "Geode Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Burning Blood",
+      "stack_size": 6,
+      "drop_areas": ["Lava Chamber Map", "Forge of the Phoenix Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Call to the First Ones",
+      "stack_size": 5,
+      "drop_areas": ["The Northern Forest (Act 7)", "Infested Valley Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Cameria's Cut",
+      "stack_size": 2,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "Cartographer's Delight",
+      "stack_size": 3,
+      "drop_areas": ["The Harbour Bridge", "The Foothills"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Chaotic Disposition",
+      "stack_size": 1,
+      "drop_areas": ["Poorjoy's Asylum"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Council of Cats",
+      "stack_size": 4,
+      "drop_areas": ["Area:AtlasExilesBoss3"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Coveted Possession",
+      "stack_size": 9,
+      "drop_areas": [
+        "The Catacombs",
+        "The Ossuary (Act 5)",
+        "The Ossuary (Act 10)",
+        "Bone Crypt Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Dark Dreams",
+      "stack_size": 4,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "Dark Temptation",
+      "stack_size": 5,
+      "drop_areas": null,
+      "drop_restrictions": "Can also drop from hidden chests in The Azurite Mine."
+    },
+    {
+      "name": "Death",
+      "stack_size": 4,
+      "drop_areas": [
+        "The Karui Fortress",
+        "Bog Map",
+        "Flooded Mine Map",
+        "Marshes Map",
+        "Mud Geyser Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Deathly Designs",
+      "stack_size": 7,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "Demigod's Wager",
+      "stack_size": 7,
+      "drop_areas": null,
+      "drop_restrictions": "The Cleansing Light of <span class=\"c-item-hoverbox\"><span class=\"c-item-hoverbox__activator\">File:Basilica Map (Blight) inventory icon.png|16x16px|link=|alt=Basilica Map|Basilica Map</span><span class=\"c-item-hoverbox__display\"><span class=\"item-box -normal\"><span class=\"header -single\">Basilica Map</span><span class=\"item-stats\"><span class=\"group \"><em class=\"tc -default\">Map Level: <em class=\"tc -value\">80</em></em><br><em class=\"tc -default\">Map Tier: <em class=\"tc -value\">13</em></em><br><em class=\"tc -default\"><abbr title=\"When used in guild creation, this map can be used for the listed character\" class=\"\">Guild Character</abbr>: <em class=\"tc -value\">\u00bb</em></em></span><span class=\"group tc -flavour\">Built so the prayers would echo. A resonance no god could hear.</span><span class=\"group tc -help\">Travel to this Map by using it in the Templar Laboratory or a personal Map Device. Maps can only be used once.</span></span></span>File:Basilica Map (Blight) inventory icon.png|link=|alt=</span></span>"
+    },
+    {
+      "name": "Destined to Crumble",
+      "stack_size": 5,
+      "drop_areas": ["Academy Map", "Museum Map", "Scriptorium Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Dialla's Subjugation",
+      "stack_size": 7,
+      "drop_areas": ["Ivory Temple Map", "The Twilight Temple", "Temple Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Divine Justice",
+      "stack_size": 1,
+      "drop_areas": ["Chateau Map", "Defiled Cathedral Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Doedre's Madness",
+      "stack_size": 9,
+      "drop_areas": ["The Harvest (area)", "Doedre's Cesspool", "Waste Pool Map"],
+      "drop_restrictions": "Doedre Stamatis|Doedre or corresponding bosses"
+    },
+    {
+      "name": "Earth Drinker",
+      "stack_size": 5,
+      "drop_areas": [
+        "The Vastiri Desert",
+        "The Oasis",
+        "The Foothills",
+        "Desert Map",
+        "Dunes Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Echoes of Love",
+      "stack_size": 3,
+      "drop_areas": ["Overgrown Ruin Map", "Overgrown Shrine Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Emperor of Purity",
+      "stack_size": 7,
+      "drop_areas": [
+        "The Western Forest (Act 6)",
+        "The Chamber of Sins Level 1 (Act 7)",
+        "The Chamber of Sins Level 2 (Act 7)",
+        "Overgrown Ruin Map",
+        "Overgrown Shrine Map",
+        "Fungal Hollow Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Emperor's Luck",
+      "stack_size": 5,
+      "drop_areas": [
+        "The Imperial Gardens",
+        "The High Gardens",
+        "Courtyard Map",
+        "Orchard Map",
+        "Terrace Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Etched in Blood",
+      "stack_size": 9,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "Forbidden Power",
+      "stack_size": 4,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "Friendship",
+      "stack_size": 3,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "Gemcutter's Promise",
+      "stack_size": 3,
+      "drop_areas": [
+        "The Ebony Barracks",
+        "The Lunaris Concourse",
+        "Colonnade Map",
+        "Promenade Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Gift of Asenath",
+      "stack_size": 5,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "Gift of the Gemling Queen",
+      "stack_size": 9,
+      "drop_areas": [
+        "The Tunnel",
+        "The Quarry",
+        "Crystal Ore Map",
+        "Dig Map",
+        "Excavation Map",
+        "Flooded Mine Map",
+        "Geode Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Glimmer of Hope",
+      "stack_size": 8,
+      "drop_areas": [
+        "The Cavern of Anger (Act 6)",
+        "Flooded Mine Map",
+        "Underground Sea Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Grave Knowledge",
+      "stack_size": 6,
+      "drop_areas": [
+        "The Ossuary (Act 10)",
+        "Bone Crypt Map",
+        "Olmec's Sanctum",
+        "Cursed Crypt Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Harmony of Souls",
+      "stack_size": 9,
+      "drop_areas": null,
+      "drop_restrictions": "This item can be acquired from map boss versions of the Act 9 Trio (Shavronne, Doedre, & Maligaro)"
+    },
+    {
+      "name": "Her Mask",
+      "stack_size": 4,
+      "drop_areas": [
+        "Alleyways Map",
+        "Ancient City Map",
+        "Arachnid Tomb Map",
+        "Arcade Map",
+        "Arid Lake Map",
+        "Armoury Map",
+        "Ashen Wood Map",
+        "Atoll Map",
+        "Barrows Map",
+        "Beach Map",
+        "Burial Chambers Map",
+        "Cage Map",
+        "Cells Map",
+        "Channel Map",
+        "City Square Map",
+        "Courtyard Map",
+        "Cursed Crypt Map",
+        "Desert Map",
+        "Excavation Map",
+        "Fields Map",
+        "Flooded Mine Map",
+        "Glacier Map",
+        "Grotto Map",
+        "Haunted Mansion Map",
+        "Ivory Temple Map",
+        "Jungle Valley Map",
+        "Leyline Map",
+        "Lookout Map",
+        "Marshes Map",
+        "Mausoleum Map",
+        "Maze Map",
+        "Mesa Map",
+        "Mud Geyser Map",
+        "Overgrown Ruin Map",
+        "Pen Map",
+        "Peninsula Map",
+        "Phantasmagoria Map",
+        "Pier Map",
+        "Primordial Pool Map",
+        "Promenade Map",
+        "Ramparts Map",
+        "Relic Chambers Map",
+        "Spider Lair Map",
+        "Fungal Hollow Map",
+        "Strand Map",
+        "Sulphur Vents Map",
+        "Thicket Map",
+        "Crater Map",
+        "Tropical Island Map",
+        "Waste Pool Map",
+        "Wharf Map"
+      ],
+      "drop_restrictions": "Can drop in tier 1 to 6 maps."
+    },
+    {
+      "name": "Heterochromia",
+      "stack_size": 2,
+      "drop_areas": ["Estuary Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Hope",
+      "stack_size": 5,
+      "drop_areas": [
+        "Beach Map",
+        "Dungeon Map",
+        "Graveyard Map",
+        "Jungle Valley Map",
+        "Lookout Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "House of Mirrors",
+      "stack_size": 9,
+      "drop_areas": ["The Alluring Abyss"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Hubris",
+      "stack_size": 5,
+      "drop_areas": ["The Library"],
+      "drop_restrictions": "Can drop from Strongbox#Loot|Jeweller's Strongboxes."
+    },
+    {
+      "name": "Humility",
+      "stack_size": 9,
+      "drop_areas": [
+        "The Aqueduct",
+        "The Blood Aqueduct",
+        "Channel Map",
+        "Waterways Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Hunter's Resolve",
+      "stack_size": 8,
+      "drop_areas": [
+        "The Riverways (Act 6)",
+        "Ramparts Map",
+        "Fungal Hollow Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Hunter's Reward",
+      "stack_size": 3,
+      "drop_areas": [
+        "Grotto Map",
+        "The Putrid Cloister",
+        "Underground River Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Immortal Resolve",
+      "stack_size": 6,
+      "drop_areas": ["Carcass Map", "Vault Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Imperial Legacy",
+      "stack_size": 22,
+      "drop_areas": [
+        "The Vastiri Desert",
+        "The Oasis",
+        "The Foothills",
+        "Desert Map",
+        "Desert Spring Map",
+        "Dunes Map",
+        "Pillars of Arun"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Jack in the Box",
+      "stack_size": 4,
+      "drop_areas": [
+        "The Ebony Barracks",
+        "The Slums",
+        "The Docks",
+        "The Sarn Ramparts",
+        "The Imperial Fields",
+        "The Harbour Bridge",
+        "The Grand Promenade",
+        "The Lunaris Concourse",
+        "The Quay",
+        "The Grain Gate",
+        "Arsenal Map",
+        "Ghetto Map",
+        "Port Map",
+        "Precinct Map",
+        "Promenade Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Lantador's Lost Love",
+      "stack_size": 7,
+      "drop_areas": [
+        "The Twilight Strand (Act 6)",
+        "The Riverways (Act 6)",
+        "The Wetlands (Act 6)",
+        "The Southern Forest (Act 6)",
+        "The Cavern of Anger (Act 6)",
+        "The Beacon",
+        "The Brine King's Reef",
+        "The Coast (Act 6)",
+        "The Tidal Island (Act 6)",
+        "The Mud Flats (Act 6)",
+        "The Karui Fortress",
+        "The Ridge",
+        "The Lower Prison (Act 6)",
+        "Shavronne's Tower",
+        "Prisoner's Gate (Act 6)",
+        "The Western Forest (Act 6)",
+        "Maelstr\u00f6m of Chaos",
+        "Lighthouse Map",
+        "Mineral Pools Map",
+        "Reef Map",
+        "Underground Sea Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Last Hope",
+      "stack_size": 3,
+      "drop_areas": ["Vaal Temple Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Left to Fate",
+      "stack_size": 4,
+      "drop_areas": ["The Pale Court"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Light and Truth",
+      "stack_size": 2,
+      "drop_areas": [
+        "The Upper Sceptre of God",
+        "Palace Map",
+        "Residence Map",
+        "Villa Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Lingering Remnants",
+      "stack_size": 16,
+      "drop_areas": [
+        "Acid Caverns Map",
+        "Arachnid Tomb Map",
+        "Arsenal Map",
+        "Basilica Map",
+        "Bog Map",
+        "Burial Chambers Map",
+        "Caldera Map",
+        "Carcass Map",
+        "Castle Ruins Map",
+        "Chateau Map",
+        "Pit of the Chimera Map",
+        "Colonnade Map",
+        "Colosseum Map",
+        "Core Map",
+        "Courthouse Map",
+        "Crimson Temple Map",
+        "Crystal Ore Map",
+        "Dark Forest Map",
+        "Defiled Cathedral Map",
+        "Desert Spring Map",
+        "Dig Map",
+        "Factory Map",
+        "Ghetto Map",
+        "Lair of the Hydra Map",
+        "Ivory Temple Map",
+        "Lair Map",
+        "Lava Lake Map",
+        "Malformation Map",
+        "Mesa Map",
+        "Maze of the Minotaur Map",
+        "Necropolis Map",
+        "Overgrown Shrine Map",
+        "Palace Map",
+        "Park Map",
+        "Forge of the Phoenix Map",
+        "Racecourse Map",
+        "Reef Map",
+        "Shrine Map",
+        "Siege Map",
+        "Summit Map",
+        "Sunken City Map",
+        "Terrace Map",
+        "Primordial Blocks Map",
+        "Tower Map",
+        "Villa Map"
+      ],
+      "drop_restrictions": "Can drop from T11-T16 maps."
+    },
+    {
+      "name": "Lost Worlds",
+      "stack_size": 8,
+      "drop_areas": null,
+      "drop_restrictions": "Sold by Zana at reputation level 4 or higher for 1x <span class=\"c-item-hoverbox\"><span class=\"c-item-hoverbox__activator\">File:Orb of Chance inventory icon.png|16x16px|link=|alt=Orb of Chance|Orb of Chance</span><span class=\"c-item-hoverbox__display\"><span class=\"item-box -currency\"><span class=\"header -single\">Orb of Chance</span><span class=\"item-stats\"><span class=\"group \"><em class=\"tc -default\">Stack Size: <em class=\"tc -value\">20</em></em></span><span class=\"group tc -mod\">Upgrades a normal item to a random rarity</span><span class=\"group tc -help\">Right click this item then left click a normal item to apply it.<br>Shift click to unstack.</span></span></span>File:Orb of Chance inventory icon.png|link=|alt=</span></span>."
+    },
+    {
+      "name": "Loyalty",
+      "stack_size": 5,
+      "drop_areas": ["The Den (Act 7)", "Barrows Map", "Grotto Map", "Lair Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Lucky Connections",
+      "stack_size": 7,
+      "drop_areas": [
+        "The Docks",
+        "The Quay",
+        "Pier Map",
+        "Port Map",
+        "Shipyard Map",
+        "Wharf Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Lucky Deck",
+      "stack_size": 9,
+      "drop_areas": ["Ramparts Map", "Mao Kun"],
+      "drop_restrictions": "Also Shaped variants."
+    },
+    {
+      "name": "Lysah's Respite",
+      "stack_size": 6,
+      "drop_areas": [
+        "Maelstr\u00f6m of Chaos",
+        "Mineral Pools Map",
+        "Underground Sea Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Mawr Blaidd",
+      "stack_size": 16,
+      "drop_areas": ["Dark Forest Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Merciless Armament",
+      "stack_size": 4,
+      "drop_areas": ["Armoury Map", "Colonnade Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Might is Right",
+      "stack_size": 9,
+      "drop_areas": [
+        "The Ossuary (Act 5)",
+        "The Reliquary (Act 5)",
+        "The Reliquary (Act 10)",
+        "The Ossuary (Act 10)",
+        "Mausoleum Map",
+        "Relic Chambers Map",
+        "Sepulchre Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Mitts",
+      "stack_size": 5,
+      "drop_areas": [
+        "The Ascent",
+        "The Solaris Temple Level 1 (Act 8)",
+        "The Solaris Temple Level 2 (Act 8)",
+        "Iceberg Map",
+        "Summit Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Monochrome",
+      "stack_size": 3,
+      "drop_areas": [
+        "Maelstr\u00f6m of Chaos",
+        "The Vinktar Square",
+        "The Coward's Trial",
+        "Pillars of Arun",
+        "The Twilight Temple",
+        "Mao Kun",
+        "Whakawairua Tuahu",
+        "Poorjoy's Asylum",
+        "Oba's Cursed Trove",
+        "Vaults of Atziri"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "More is Never Enough",
+      "stack_size": 7,
+      "drop_areas": ["Infested Valley Map"],
+      "drop_restrictions": "Gorulis, Will-Thief"
+    },
+    {
+      "name": "No Traces",
+      "stack_size": 9,
+      "drop_areas": [
+        "The Ossuary (Act 5)",
+        "The Reliquary (Act 10)",
+        "The Ossuary (Act 10)",
+        "Mausoleum Map",
+        "Relic Chambers Map",
+        "Sepulchre Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Nook's Crown",
+      "stack_size": 4,
+      "drop_areas": null,
+      "drop_restrictions": "Catarina, Master of Undeath in Mastermind's Lair"
+    },
+    {
+      "name": "Peaceful Moments",
+      "stack_size": 5,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "Perfection",
+      "stack_size": 5,
+      "drop_areas": [
+        "Pit of the Chimera Map",
+        "Lair of the Hydra Map",
+        "Maze of the Minotaur Map",
+        "Forge of the Phoenix Map"
+      ],
+      "drop_restrictions": "Drops from the Guardians of the Void."
+    },
+    {
+      "name": "Pride Before the Fall",
+      "stack_size": 8,
+      "drop_areas": [
+        "The Coast (Act 6)",
+        "The Tidal Island (Act 6)",
+        "The Mud Flats (Act 6)",
+        "The Karui Fortress",
+        "Caldera Map",
+        "Lava Lake Map",
+        "Marshes Map",
+        "Volcano Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Pride of the First Ones",
+      "stack_size": 7,
+      "drop_areas": ["Barrows Map", "Grotto Map", "Lair Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Prometheus' Armoury",
+      "stack_size": 6,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "Prosperity",
+      "stack_size": 10,
+      "drop_areas": ["The Tidal Island (Act 6)", "Shore Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Rain of Chaos",
+      "stack_size": 8,
+      "drop_areas": [
+        "The Crossroads (Act 7)",
+        "The Imperial Fields",
+        "Castle Ruins Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Rain Tempter",
+      "stack_size": 9,
+      "drop_areas": ["Grotto Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Rats",
+      "stack_size": 8,
+      "drop_areas": [
+        "The Imperial Fields",
+        "The Grain Gate",
+        "Arsenal Map",
+        "Factory Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Rebirth (divination card)",
+      "stack_size": 27,
+      "drop_areas": [
+        "The Battlefront",
+        "The Slave Pens",
+        "The Ruined Square",
+        "The Desecrated Chambers",
+        "The Control Blocks (Act 10)",
+        "The Reliquary (Act 10)",
+        "The Ossuary (Act 10)",
+        "The Broken Bridge (Act 7)",
+        "The Crypt (Act 7)",
+        "The Ashen Fields",
+        "The Blood Aqueduct",
+        "The Vastiri Desert",
+        "The Foothills",
+        "The Quarry"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Remembrance",
+      "stack_size": 8,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "Sambodhi's Vow",
+      "stack_size": 3,
+      "drop_areas": null,
+      "drop_restrictions": "Can drop from members of the Immortal Syndicate."
+    },
+    {
+      "name": "Scholar of the Seas",
+      "stack_size": 7,
+      "drop_areas": ["The Brine King's Reef", "Coves Map", "Reef Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Seven Years Bad Luck",
+      "stack_size": 13,
+      "drop_areas": ["Defiled Cathedral Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Shard of Fate",
+      "stack_size": 4,
+      "drop_areas": [
+        "The Chamber of Sins Level 2 (Act 7)",
+        "Museum Map",
+        "Overgrown Ruin Map",
+        "Overgrown Shrine Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Squandered Prosperity",
+      "stack_size": 5,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "Struck by Lightning",
+      "stack_size": 3,
+      "drop_areas": [
+        "Cemetery Map",
+        "Colonnade Map",
+        "Courtyard Map",
+        "Graveyard Map",
+        "Infested Valley Map",
+        "Leyline Map",
+        "Promenade Map",
+        "Shipyard Map",
+        "Tower Map",
+        "Villa Map",
+        "Wharf Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Succor of the Sinless",
+      "stack_size": 6,
+      "drop_areas": null,
+      "drop_restrictions": "Drops from Baran, the Crusader."
+    },
+    {
+      "name": "The Admirer",
+      "stack_size": 9,
+      "drop_areas": ["Ancient City Map", "Maze Map", "Vaal Pyramid Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Aesthete",
+      "stack_size": 8,
+      "drop_areas": [
+        "The Harvest (area)",
+        "Shavronne's Tower",
+        "Core Map",
+        "Scriptorium Map",
+        "Tower Map"
+      ],
+      "drop_restrictions": "Shavronne of Umbra|Shavronne or corresponding bosses"
+    },
+    {
+      "name": "The Archmage's Right Hand",
+      "stack_size": 7,
+      "drop_areas": null,
+      "drop_restrictions": "Prophecy monsters"
+    },
+    {
+      "name": "The Arena Champion",
+      "stack_size": 10,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Army of Blood",
+      "stack_size": 6,
+      "drop_areas": ["The Lunaris Temple Level 2 (Act 3)", "Shrine Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Artist",
+      "stack_size": 11,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Avenger",
+      "stack_size": 12,
+      "drop_areas": ["Primordial Blocks Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Awakened",
+      "stack_size": 6,
+      "drop_areas": null,
+      "drop_restrictions": "The Awakened can drop from Metamorph encounters"
+    },
+    {
+      "name": "The Bargain",
+      "stack_size": 5,
+      "drop_areas": null,
+      "drop_restrictions": "Drops from It That Fled."
+    },
+    {
+      "name": "The Battle Born",
+      "stack_size": 5,
+      "drop_areas": [
+        "Kaom's Dream",
+        "Kaom's Stronghold",
+        "Caldera Map",
+        "Volcano Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Beast",
+      "stack_size": 6,
+      "drop_areas": [
+        "The Belly of the Beast Level 1",
+        "The Belly of the Beast Level 2",
+        "The Belly of the Beast (Act 9)"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Betrayal",
+      "stack_size": 9,
+      "drop_areas": [
+        "The Riverways (Act 6)",
+        "The Southern Forest (Act 6)",
+        "The Western Forest (Act 6)",
+        "The Crossroads (Act 7)",
+        "The Northern Forest (Act 7)",
+        "Burial Chambers Map",
+        "Mesa Map",
+        "Spider Forest Map",
+        "Fungal Hollow Map",
+        "Strand Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Blazing Fire",
+      "stack_size": 6,
+      "drop_areas": [
+        "The Ruined Square",
+        "The Torched Courts (Act 5)",
+        "The Ravaged Square",
+        "The Torched Courts (Act 10)",
+        "Alleyways Map",
+        "Haunted Mansion Map",
+        "Siege Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Body",
+      "stack_size": 4,
+      "drop_areas": null,
+      "drop_restrictions": "Can drop from an Strongbox#Loot|Armourer's Strongbox."
+    },
+    {
+      "name": "The Bones",
+      "stack_size": 6,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Breach",
+      "stack_size": 4,
+      "drop_areas": null,
+      "drop_restrictions": "Drops from Null Portal|Null Portals that spawn in Elder-Influenced maps."
+    },
+    {
+      "name": "The Brittle Emperor",
+      "stack_size": 8,
+      "drop_areas": ["The Dried Lake", "Wasteland Map"],
+      "drop_restrictions": "Can drop from Voll, Emperor of Purity, or map variant The Brittle Emperor (unique monster)|The Brittle Emperor."
+    },
+    {
+      "name": "The Cacophony",
+      "stack_size": 8,
+      "drop_areas": [
+        "Maelstr\u00f6m of Chaos",
+        "Cemetery Map",
+        "Crimson Temple Map",
+        "Excavation Map",
+        "Mineral Pools Map",
+        "Sepulchre Map",
+        "Underground Sea Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Calling",
+      "stack_size": 6,
+      "drop_areas": null,
+      "drop_restrictions": "The Calling can drop from Beyond demons."
+    },
+    {
+      "name": "The Carrion Crow",
+      "stack_size": 4,
+      "drop_areas": [
+        "The Western Forest (Act 2)",
+        "The City of Sarn",
+        "The Ebony Barracks",
+        "The Imperial Gardens",
+        "The Battlefront",
+        "The Aqueduct",
+        "The Ascent",
+        "The Grand Promenade",
+        "The Blood Aqueduct",
+        "Channel Map",
+        "City Square Map",
+        "Colonnade Map",
+        "Courtyard Map",
+        "Promenade Map",
+        "Ramparts Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Cartographer",
+      "stack_size": 1,
+      "drop_areas": null,
+      "drop_restrictions": "Can drop from Cartographer's Strongboxes."
+    },
+    {
+      "name": "The Cataclysm",
+      "stack_size": 13,
+      "drop_areas": [
+        "Strange Sinkhole",
+        "Concealed Cavity",
+        "Sunken Shingle",
+        "Clouded Ridge",
+        "Forgotten Oubliette",
+        "Remote Gulch",
+        "Area:1~SideArea10~3",
+        "Narrow Ravine",
+        "Mystical Clearing",
+        "Covered-up Hollow",
+        "Hidden Patch",
+        "Entombed Alcove",
+        "Secret Laboratory",
+        "Secluded Copse",
+        "Forbidden Chamber",
+        "Quarantined Quarters",
+        "Inner Grounds",
+        "Sealed Corridors",
+        "Restricted Gallery",
+        "Disused Furnace",
+        "Blind Alley",
+        "Entombed Chamber",
+        "Sacred Chambers",
+        "Stagnant Canal",
+        "Walled-off Ducts",
+        "Neglected Cellar",
+        "Arcane Chambers",
+        "Forgotten Conduit",
+        "Ancient Catacomb",
+        "Haunted Mineshaft",
+        "Abandoned Dam",
+        "Desolate Track",
+        "Reclaimed Barracks",
+        "Sealed Basement",
+        "Secluded Canal",
+        "Area:1~SideArea5~4",
+        "Area:1~SideArea5~4b",
+        "Area:1~SideArea5~5",
+        "Area:1~SideArea5~6",
+        "Area:1~SideArea5~7",
+        "Area:1~SideArea5~8",
+        "Area:1~SideArea6~4",
+        "Clouded Ledge",
+        "Area:1~SideArea7~10",
+        "Area:1~SideArea7~12",
+        "Area:1~SideArea7~4",
+        "Area:1~SideArea8~3",
+        "Area:1~SideArea8~5",
+        "Area:1~SideArea8~7",
+        "Area:1~SideArea9~3",
+        "Area:1~SideArea9~5",
+        "Area:1~SideArea9~6",
+        "Area:1~SideArea9~9"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Catalyst",
+      "stack_size": 3,
+      "drop_areas": [
+        "The Causeway",
+        "The Vaal City",
+        "The Temple of Decay Level 1",
+        "The Temple of Decay Level 2",
+        "Ancient City Map",
+        "Maze Map",
+        "Vaal Pyramid Map",
+        "Vaults of Atziri",
+        "Vaal Temple Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Celestial Justicar",
+      "stack_size": 6,
+      "drop_areas": ["The Crypt (Act 7)", "Cursed Crypt Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Celestial Stone",
+      "stack_size": 10,
+      "drop_areas": ["Basilica Map", "Lair of the Hydra Map", "Terrace Map"],
+      "drop_restrictions": "Can drop from Strongbox#Loot|Jeweller's Strongboxes."
+    },
+    {
+      "name": "The Chains that Bind",
+      "stack_size": 11,
+      "drop_areas": ["Cage Map", "Lava Chamber Map", "Pen Map", "Pit Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Cheater",
+      "stack_size": 3,
+      "drop_areas": null,
+      "drop_restrictions": "Can drop from Perandus Safes."
+    },
+    {
+      "name": "The Chosen",
+      "stack_size": 5,
+      "drop_areas": null,
+      "drop_restrictions": "The Chosen can drop from Chayula Breach encounters"
+    },
+    {
+      "name": "The Coming Storm",
+      "stack_size": 8,
+      "drop_areas": [
+        "Colonnade Map",
+        "Graveyard Map",
+        "Infested Valley Map",
+        "Leyline Map",
+        "Shipyard Map",
+        "Villa Map",
+        "Wharf Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Conduit",
+      "stack_size": 9,
+      "drop_areas": ["The Upper Sceptre of God", "Villa Map"],
+      "drop_restrictions": "Dominus and Dominus#Map_variants|map-based variants."
+    },
+    {
+      "name": "The Craving",
+      "stack_size": 4,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Cursed King",
+      "stack_size": 8,
+      "drop_areas": ["Caer Blaidd, Wolfpack's Den"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Damned",
+      "stack_size": 6,
+      "drop_areas": ["Ancient City Map", "Vaults of Atziri", "Vaal Temple Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Dapper Prodigy",
+      "stack_size": 6,
+      "drop_areas": ["Residence Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Dark Mage",
+      "stack_size": 6,
+      "drop_areas": [
+        "The Chamber of Sins Level 2 (Act 7)",
+        "Overgrown Ruin Map",
+        "Overgrown Shrine Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Darkest Dream",
+      "stack_size": 6,
+      "drop_areas": ["Whakawairua Tuahu"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Deal",
+      "stack_size": 5,
+      "drop_areas": null,
+      "drop_restrictions": "Drops from Cameria the Coldblooded."
+    },
+    {
+      "name": "The Deceiver",
+      "stack_size": 4,
+      "drop_areas": ["The Grand Arena", "Arena Map", "Colosseum Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Deep Ones",
+      "stack_size": 5,
+      "drop_areas": ["The Brine King's Reef", "Coral Ruins Map", "Reef Map"],
+      "drop_restrictions": "Drops from Tsoagoth, The Brine King or corresponding bosses."
+    },
+    {
+      "name": "The Demon",
+      "stack_size": 10,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Demoness",
+      "stack_size": 5,
+      "drop_areas": ["The Northern Forest (Act 7)"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Doctor",
+      "stack_size": 8,
+      "drop_areas": ["Burial Chambers Map", "Spider Forest Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Doppelganger",
+      "stack_size": 2,
+      "drop_areas": ["The Crossroads (Act 7)", "Whakawairua Tuahu"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Dragon",
+      "stack_size": 4,
+      "drop_areas": ["Dark Forest Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Dragon's Heart",
+      "stack_size": 11,
+      "drop_areas": ["Pit of the Chimera Map", "The Putrid Cloister"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Dreamer",
+      "stack_size": 6,
+      "drop_areas": null,
+      "drop_restrictions": "The Dreamer can drop from Agents of the Void."
+    },
+    {
+      "name": "The Dreamland",
+      "stack_size": 8,
+      "drop_areas": ["Laboratory Map"],
+      "drop_restrictions": "Can drop from Strongbox#Loot|Cartographer's Strongboxes."
+    },
+    {
+      "name": "The Drunken Aristocrat",
+      "stack_size": 8,
+      "drop_areas": ["The Sceptre of God", "Residence Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Easy Stroll",
+      "stack_size": 2,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Eldritch Decay",
+      "stack_size": 4,
+      "drop_areas": ["Manor of Madness"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Encroaching Darkness",
+      "stack_size": 8,
+      "drop_areas": [
+        "Chayula's Domain",
+        "Tul's Domain",
+        "Xoph's Domain",
+        "Esh's Domain",
+        "Uul-Netol's Domain",
+        "Academy Map",
+        "Acid Caverns Map",
+        "Arachnid Nest Map",
+        "Arachnid Tomb Map",
+        "Arena Map",
+        "Armoury Map",
+        "Arsenal Map",
+        "Ashen Wood Map",
+        "Atoll Map",
+        "Maelstr\u00f6m of Chaos",
+        "Basilica Map",
+        "Bazaar Map",
+        "Belfry Map",
+        "Bog Map",
+        "Bone Crypt Map",
+        "Olmec's Sanctum",
+        "Caldera Map",
+        "Carcass Map",
+        "Castle Ruins Map",
+        "Cemetery Map",
+        "Hallowed Ground",
+        "Pit of the Chimera Map",
+        "Colonnade Map",
+        "Colosseum Map",
+        "Coral Ruins Map",
+        "Core Map",
+        "Courtyard Map",
+        "The Vinktar Square",
+        "Coves Map",
+        "Crimson Temple Map",
+        "Crystal Ore Map",
+        "Cursed Crypt Map",
+        "The Coward's Trial",
+        "Dark Forest Map",
+        "Defiled Cathedral Map",
+        "Desert Spring Map",
+        "Dig Map",
+        "Dunes Map",
+        "Pillars of Arun",
+        "Desert of Dementia",
+        "Halls of Delirium",
+        "Ruins of Despair",
+        "Sea of Isolation",
+        "Repository of Derision",
+        "Pits of Sorrow",
+        "Islands of Devastation",
+        "Manor of Madness",
+        "Wastes of Lunacy",
+        "Vaults of Insanity",
+        "Spires of Delusion",
+        "River of Hysteria",
+        "Absence of Value and Meaning",
+        "Factory Map",
+        "Fields Map",
+        "Gardens Map",
+        "Geode Map",
+        "Ghetto Map",
+        "Harbinger Map",
+        "Harbinger Map",
+        "Lair of the Hydra Map",
+        "Infested Valley Map",
+        "Jungle Valley Map",
+        "Laboratory Map",
+        "Lair Map",
+        "Lava Chamber Map",
+        "Lava Lake Map",
+        "Malformation Map",
+        "Mausoleum Map",
+        "Mesa Map",
+        "Mineral Pools Map",
+        "Maze of the Minotaur Map",
+        "Moon Temple Map",
+        "The Twilight Temple",
+        "Mud Geyser Map",
+        "Museum Map",
+        "The Putrid Cloister",
+        "Necropolis Map",
+        "Death and Taxes",
+        "Orchard Map",
+        "Overgrown Ruin Map",
+        "Overgrown Shrine Map",
+        "Acton's Nightmare",
+        "Palace Map",
+        "Park Map",
+        "Phantasmagoria Map",
+        "Forge of the Phoenix Map",
+        "Pier Map",
+        "Pit Map",
+        "Plateau Map",
+        "Plaza Map",
+        "Precinct Map",
+        "Primordial Pool Map",
+        "Promenade Map",
+        "The Hall of Grandmasters",
+        "Racecourse Map",
+        "Ramparts Map",
+        "Reef Map",
+        "Residence Map",
+        "Scriptorium Map",
+        "Sepulchre Map",
+        "The Shaper's Realm",
+        "Shipyard Map",
+        "Shore Map",
+        "Mao Kun",
+        "Shrine Map",
+        "Siege Map",
+        "Spider Forest Map",
+        "Summit Map",
+        "Sunken City Map",
+        "Temple Map",
+        "Poorjoy's Asylum",
+        "Terrace Map",
+        "Thicket Map",
+        "Primordial Blocks Map",
+        "Oba's Cursed Trove",
+        "Tower Map",
+        "Crater Map",
+        "Tropical Island Map",
+        "Underground River Map",
+        "Caer Blaidd, Wolfpack's Den",
+        "Underground Sea Map",
+        "Vaal Pyramid Map",
+        "Vaults of Atziri",
+        "Vaal Temple Map",
+        "Vault Map",
+        "Villa Map",
+        "Wasteland Map",
+        "Waste Pool Map",
+        "Waterways Map",
+        "Wharf Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Endless Darkness",
+      "stack_size": 9,
+      "drop_areas": ["Harbinger Map", "Harbinger Map", "Harbinger Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Endurance",
+      "stack_size": 4,
+      "drop_areas": [
+        "The Mines Level 1",
+        "The Mines Level 2",
+        "The Crystal Veins",
+        "The Tunnel",
+        "The Quarry",
+        "Crystal Ore Map",
+        "Dig Map",
+        "Excavation Map",
+        "Flooded Mine Map",
+        "Geode Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Enlightened",
+      "stack_size": 6,
+      "drop_areas": ["Ashen Wood Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Escape",
+      "stack_size": 5,
+      "drop_areas": [
+        "Area:AfflictionTown10",
+        "Area:AfflictionTown4",
+        "Area:AfflictionTown6",
+        "Area:AfflictionTown7",
+        "Area:AfflictionTown8",
+        "Tul's Domain",
+        "Xoph's Domain",
+        "Esh's Domain"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Ethereal",
+      "stack_size": 7,
+      "drop_areas": ["The Apex of Sacrifice"],
+      "drop_restrictions": "The Eternal Labyrinth"
+    },
+    {
+      "name": "The Explorer",
+      "stack_size": 6,
+      "drop_areas": ["The Dread Thicket (Act 7)", "Thicket Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Eye of Terror",
+      "stack_size": 8,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Eye of the Dragon",
+      "stack_size": 10,
+      "drop_areas": ["The Boiling Lake", "Marshes Map", "Sulphur Vents Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Fathomless Depths",
+      "stack_size": 8,
+      "drop_areas": [
+        "The Cavern of Anger (Act 6)",
+        "Flooded Mine Map",
+        "Underground Sea Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Feast",
+      "stack_size": 5,
+      "drop_areas": [
+        "The Northern Forest (Act 2)",
+        "The Sewers",
+        "The Toxic Conduits",
+        "Lair of the Hydra Map",
+        "Toxic Sewer Map",
+        "Waste Pool Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Fiend",
+      "stack_size": 11,
+      "drop_areas": ["The Putrid Cloister", "Shrine Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Fishmonger",
+      "stack_size": 4,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Fletcher",
+      "stack_size": 5,
+      "drop_areas": ["The Climb", "The Riverways (Act 6)"],
+      "drop_restrictions": "Ironpoint the Forsaken, Steelpoint the Avenger, Lieutenant of the Bow"
+    },
+    {
+      "name": "The Flora's Gift",
+      "stack_size": 5,
+      "drop_areas": [
+        "Ashen Wood Map",
+        "Jungle Valley Map",
+        "Tropical Island Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Fool",
+      "stack_size": 4,
+      "drop_areas": null,
+      "drop_restrictions": "Can drop from members of the Immortal Syndicate."
+    },
+    {
+      "name": "The Formless Sea",
+      "stack_size": 7,
+      "drop_areas": ["Reef Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Forsaken",
+      "stack_size": 7,
+      "drop_areas": ["Bone Crypt Map", "Olmec's Sanctum", "The Coward's Trial"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Fox",
+      "stack_size": 6,
+      "drop_areas": [
+        "The Western Forest (Act 2)",
+        "The Riverways (Act 6)",
+        "The Vaal City",
+        "The Crossroads (Act 7)",
+        "The Fellshrine Ruins (Act 7)",
+        "Barrows Map",
+        "Castle Ruins Map",
+        "Sunken City Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Gambler",
+      "stack_size": 5,
+      "drop_areas": [
+        "Ancient Reliquary",
+        "The Pale Court",
+        "Chayula's Domain",
+        "Tul's Domain",
+        "Xoph's Domain",
+        "Esh's Domain",
+        "Uul-Netol's Domain",
+        "The Apex of Sacrifice",
+        "The Alluring Abyss",
+        "Academy Map",
+        "Acid Caverns Map",
+        "Alleyways Map",
+        "Ancient City Map",
+        "Arachnid Nest Map",
+        "Arachnid Tomb Map",
+        "Arcade Map",
+        "Arena Map",
+        "Arid Lake Map",
+        "Armoury Map",
+        "Arsenal Map",
+        "Ashen Wood Map",
+        "Atoll Map",
+        "Maelstr\u00f6m of Chaos",
+        "Barrows Map",
+        "Basilica Map",
+        "Bazaar Map",
+        "Beach Map",
+        "Belfry Map",
+        "Bog Map",
+        "Bone Crypt Map",
+        "Olmec's Sanctum",
+        "Burial Chambers Map",
+        "Cage Map",
+        "Caldera Map",
+        "Canyon Map",
+        "Carcass Map",
+        "Castle Ruins Map",
+        "Cells Map",
+        "Cemetery Map",
+        "Hallowed Ground",
+        "Channel Map",
+        "Chateau Map",
+        "Perandus Manor",
+        "Pit of the Chimera Map",
+        "City Square Map",
+        "Colonnade Map",
+        "Colosseum Map",
+        "Conservatory Map",
+        "Coral Ruins Map",
+        "Core Map",
+        "Courthouse Map",
+        "Courtyard Map",
+        "The Vinktar Square",
+        "Coves Map",
+        "Crimson Temple Map",
+        "Crystal Ore Map",
+        "Cursed Crypt Map",
+        "The Coward's Trial",
+        "Dark Forest Map",
+        "Defiled Cathedral Map",
+        "Desert Map",
+        "Desert Spring Map",
+        "Dig Map",
+        "Dunes Map",
+        "Pillars of Arun",
+        "Dungeon Map",
+        "Desert of Dementia",
+        "Halls of Delirium",
+        "Ruins of Despair",
+        "Sea of Isolation",
+        "Repository of Derision",
+        "Pits of Sorrow",
+        "Islands of Devastation",
+        "Manor of Madness",
+        "Wastes of Lunacy",
+        "Vaults of Insanity",
+        "Spires of Delusion",
+        "River of Hysteria",
+        "Absence of Value and Meaning",
+        "Estuary Map",
+        "Excavation Map",
+        "Factory Map",
+        "Fields Map",
+        "Flooded Mine Map",
+        "Gardens Map",
+        "Geode Map",
+        "Ghetto Map",
+        "Glacier Map",
+        "Graveyard Map",
+        "Grotto Map",
+        "Harbinger's Isle",
+        "Harbinger Map",
+        "Harbinger Map",
+        "Harbinger Map",
+        "Haunted Mansion Map",
+        "Lair of the Hydra Map",
+        "Iceberg Map",
+        "Infested Valley Map",
+        "Ivory Temple Map",
+        "Jungle Valley Map",
+        "Laboratory Map",
+        "Lair Map",
+        "Lava Chamber Map",
+        "Lava Lake Map",
+        "Leyline Map",
+        "Lighthouse Map",
+        "Lookout Map",
+        "Malformation Map",
+        "Marshes Map",
+        "Mausoleum Map",
+        "Maze Map",
+        "Doryani's Machinarium",
+        "Mesa Map",
+        "Mineral Pools Map",
+        "Maze of the Minotaur Map",
+        "Moon Temple Map",
+        "The Twilight Temple",
+        "Mud Geyser Map",
+        "Museum Map",
+        "The Putrid Cloister",
+        "Necropolis Map",
+        "Death and Taxes",
+        "Orchard Map",
+        "Overgrown Ruin Map",
+        "Overgrown Shrine Map",
+        "Acton's Nightmare",
+        "Palace Map",
+        "Park Map",
+        "Pen Map",
+        "Peninsula Map",
+        "Phantasmagoria Map",
+        "Forge of the Phoenix Map",
+        "Pier Map",
+        "Pit Map",
+        "Plateau Map",
+        "Plaza Map",
+        "Port Map",
+        "Precinct Map",
+        "Primordial Pool Map",
+        "Promenade Map",
+        "The Hall of Grandmasters",
+        "Racecourse Map",
+        "Ramparts Map",
+        "Reef Map",
+        "Relic Chambers Map",
+        "Residence Map",
+        "Scriptorium Map",
+        "Sepulchre Map",
+        "The Shaper's Realm",
+        "Shipyard Map",
+        "Shore Map",
+        "Mao Kun",
+        "Shrine Map",
+        "Siege Map",
+        "Spider Forest Map",
+        "Spider Lair Map",
+        "Fungal Hollow Map",
+        "Strand Map",
+        "Whakawairua Tuahu",
+        "Sulphur Vents Map",
+        "Summit Map",
+        "Sunken City Map",
+        "Temple Map",
+        "Poorjoy's Asylum",
+        "Terrace Map",
+        "Thicket Map",
+        "Primordial Blocks Map",
+        "Oba's Cursed Trove",
+        "Tower Map",
+        "Toxic Sewer Map",
+        "Crater Map",
+        "Tropical Island Map",
+        "Underground River Map",
+        "Caer Blaidd, Wolfpack's Den",
+        "Underground Sea Map",
+        "Vaal Pyramid Map",
+        "Vaults of Atziri",
+        "Vaal Temple Map",
+        "Vault Map",
+        "Villa Map",
+        "Volcano Map",
+        "Wasteland Map",
+        "Waste Pool Map",
+        "Waterways Map",
+        "Wharf Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Garish Power",
+      "stack_size": 4,
+      "drop_areas": [
+        "The Chamber of Sins Level 1 (Act 7)",
+        "The Chamber of Sins Level 2 (Act 7)",
+        "Overgrown Ruin Map",
+        "Overgrown Shrine Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Gemcutter",
+      "stack_size": 3,
+      "drop_areas": null,
+      "drop_restrictions": "Can drop from Gemcutter's Strongboxes."
+    },
+    {
+      "name": "The Gentleman",
+      "stack_size": 4,
+      "drop_areas": [
+        "The Slums",
+        "The Sarn Ramparts",
+        "The Grain Gate",
+        "Ghetto Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Gladiator",
+      "stack_size": 5,
+      "drop_areas": [
+        "Daresso's Dream",
+        "The Grand Arena",
+        "Arena Map",
+        "Pit of the Chimera Map",
+        "Colosseum Map",
+        "Pit Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Golden Era",
+      "stack_size": 7,
+      "drop_areas": ["Ivory Temple Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Greatest Intentions",
+      "stack_size": 10,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Hale Heart",
+      "stack_size": 4,
+      "drop_areas": null,
+      "drop_restrictions": "Can drop from Elder guardians."
+    },
+    {
+      "name": "The Harvester",
+      "stack_size": 11,
+      "drop_areas": ["The Imperial Fields"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Hermit",
+      "stack_size": 9,
+      "drop_areas": [
+        "The Broken Bridge (Act 7)",
+        "The Causeway",
+        "The Vaal City",
+        "The Crossroads (Act 7)",
+        "The Fellshrine Ruins (Act 7)",
+        "The Ashen Fields"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Heroic Shot",
+      "stack_size": 1,
+      "drop_areas": null,
+      "drop_restrictions": "Can drop from Strongbox#Loot|Arcanist's Strongboxes."
+    },
+    {
+      "name": "The Hive of Knowledge",
+      "stack_size": 6,
+      "drop_areas": ["Vaal Pyramid Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Hoarder",
+      "stack_size": 12,
+      "drop_areas": [
+        "The Belly of the Beast Level 1",
+        "The Belly of the Beast Level 2",
+        "The Harvest (area)",
+        "The Rotting Core",
+        "Vault Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Hunger",
+      "stack_size": 9,
+      "drop_areas": [
+        "The Belly of the Beast Level 1",
+        "The Belly of the Beast Level 2",
+        "The Harvest (area)",
+        "The Belly of the Beast (Act 9)",
+        "The Rotting Core",
+        "Carcass Map",
+        "Malformation Map",
+        "Phantasmagoria Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Immortal",
+      "stack_size": 10,
+      "drop_areas": ["The Hall of Grandmasters"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Incantation",
+      "stack_size": 4,
+      "drop_areas": [
+        "The Western Forest (Act 6)",
+        "Burial Chambers Map",
+        "Spider Forest Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Innocent",
+      "stack_size": 10,
+      "drop_areas": ["The Chamber of Innocence", "Basilica Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Inoculated",
+      "stack_size": 4,
+      "drop_areas": ["Acid Caverns Map", "Primordial Pool Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Insatiable",
+      "stack_size": 3,
+      "drop_areas": ["The Rotting Core", "Carcass Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Inventor",
+      "stack_size": 6,
+      "drop_areas": [
+        "The Temple of Decay Level 1",
+        "The Temple of Decay Level 2",
+        "Maze Map",
+        "Vaal Pyramid Map",
+        "Vaults of Atziri",
+        "Vaal Temple Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Iron Bard",
+      "stack_size": 9,
+      "drop_areas": ["The Vinktar Square"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Jester",
+      "stack_size": 9,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Jeweller's Boon",
+      "stack_size": 5,
+      "drop_areas": ["The Crystal Veins", "Crystal Ore Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Journey",
+      "stack_size": 3,
+      "drop_areas": ["Lighthouse Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The King's Blade",
+      "stack_size": 5,
+      "drop_areas": ["Daresso's Dream", "Pit Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The King's Heart",
+      "stack_size": 8,
+      "drop_areas": ["The Coast (Act 6)", "Caldera Map", "Volcano Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Landing",
+      "stack_size": 5,
+      "drop_areas": ["Shore Map", "Mao Kun", "Strand Map", "Whakawairua Tuahu"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Last One Standing",
+      "stack_size": 10,
+      "drop_areas": ["The Hall of Grandmasters"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Lich",
+      "stack_size": 12,
+      "drop_areas": ["The Upper Prison", "Bone Crypt Map"],
+      "drop_restrictions": "Sawbones, Xixic, High Necromancer"
+    },
+    {
+      "name": "The Life Thief",
+      "stack_size": 6,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Lion",
+      "stack_size": 5,
+      "drop_areas": ["The Mud Flats (Act 6)", "Caldera Map", "Glacier Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Long Con",
+      "stack_size": 4,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Lord in Black",
+      "stack_size": 6,
+      "drop_areas": null,
+      "drop_restrictions": "The Lord in Black can drop from Bameth, Shifting Darkness."
+    },
+    {
+      "name": "The Lord of Celebration",
+      "stack_size": 4,
+      "drop_areas": ["Siege Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Lover",
+      "stack_size": 2,
+      "drop_areas": [
+        "Maelstr\u00f6m of Chaos",
+        "Mineral Pools Map",
+        "Underground Sea Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Lunaris Priestess",
+      "stack_size": 5,
+      "drop_areas": [
+        "The Lunaris Temple Level 1 (Act 3)",
+        "The Lunaris Temple Level 1 (Act 8)",
+        "The Lunaris Temple Level 2 (Act 8)",
+        "The Twilight Temple",
+        "Shrine Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Mad King",
+      "stack_size": 7,
+      "drop_areas": ["Caldera Map", "Dark Forest Map", "Lair Map", "Reef Map"],
+      "drop_restrictions": "The Cursed King (boss)|The Cursed King , Kaom , Daresso, King of Swords , Tsoagoth, The Brine King"
+    },
+    {
+      "name": "The Master",
+      "stack_size": 4,
+      "drop_areas": ["Pen Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Master Artisan",
+      "stack_size": 5,
+      "drop_areas": null,
+      "drop_restrictions": "Can drop from Artisan's Strongboxes."
+    },
+    {
+      "name": "The Mayor",
+      "stack_size": 5,
+      "drop_areas": ["Ivory Temple Map"],
+      "drop_restrictions": "Can also drop from Strongbox#Loot|Armourer's Strongboxes."
+    },
+    {
+      "name": "The Mercenary",
+      "stack_size": 5,
+      "drop_areas": ["The Broken Bridge (Act 7)", "Castle Ruins Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Messenger",
+      "stack_size": 4,
+      "drop_areas": ["Crystal Ore Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Metalsmith's Gift",
+      "stack_size": 6,
+      "drop_areas": [
+        "The Mud Flats (Act 1)",
+        "The Fetid Pool",
+        "The Coast (Act 6)",
+        "The Mud Flats (Act 6)",
+        "The Karui Fortress"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Mountain",
+      "stack_size": 6,
+      "drop_areas": ["The Ascent", "The Descent", "Summit Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Nurse",
+      "stack_size": 8,
+      "drop_areas": ["Shavronne's Tower", "Arachnid Tomb Map", "Tower Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Oath",
+      "stack_size": 6,
+      "drop_areas": [
+        "The Belly of the Beast (Act 9)",
+        "The Rotting Core",
+        "Carcass Map",
+        "Core Map",
+        "Malformation Map",
+        "Phantasmagoria Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Obscured",
+      "stack_size": 7,
+      "drop_areas": null,
+      "drop_restrictions": "The Obscured can drop from Abyss monsters."
+    },
+    {
+      "name": "The Offering",
+      "stack_size": 8,
+      "drop_areas": [
+        "The Rotting Core",
+        "Cells Map",
+        "Core Map",
+        "Scriptorium Map",
+        "Tower Map"
+      ],
+      "drop_restrictions": "Drops from Shavronne of Umbra and her map boss variants."
+    },
+    {
+      "name": "The Old Man",
+      "stack_size": 12,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The One With All",
+      "stack_size": 6,
+      "drop_areas": ["The Tidal Island (Act 6)", "Oba's Cursed Trove"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Opulent",
+      "stack_size": 5,
+      "drop_areas": [
+        "Basilica Map",
+        "Chateau Map",
+        "Conservatory Map",
+        "Crimson Temple Map",
+        "Haunted Mansion Map",
+        "Ivory Temple Map",
+        "Laboratory Map",
+        "Palace Map",
+        "Relic Chambers Map",
+        "Residence Map",
+        "Temple Map",
+        "Vaults of Atziri",
+        "Vault Map",
+        "Villa Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Pack Leader",
+      "stack_size": 6,
+      "drop_areas": ["Jungle Valley Map", "Tropical Island Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Pact",
+      "stack_size": 9,
+      "drop_areas": ["The Quay", "Pier Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Penitent",
+      "stack_size": 5,
+      "drop_areas": ["Cells Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Poet",
+      "stack_size": 9,
+      "drop_areas": [
+        "The Marketplace",
+        "The Quay",
+        "Alleyways Map",
+        "Arcade Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Polymath",
+      "stack_size": 3,
+      "drop_areas": [
+        "The Reliquary (Act 5)",
+        "The Reliquary (Act 10)",
+        "Museum Map",
+        "Relic Chambers Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Porcupine",
+      "stack_size": 6,
+      "drop_areas": [
+        "The High Gardens",
+        "Gardens Map",
+        "Plaza Map",
+        "Terrace Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Price of Loyalty",
+      "stack_size": 4,
+      "drop_areas": null,
+      "drop_restrictions": "Zilquapa, Architect of the Breach"
+    },
+    {
+      "name": "The Price of Protection",
+      "stack_size": 5,
+      "drop_areas": null,
+      "drop_restrictions": "Can only drop from Invasion bosses."
+    },
+    {
+      "name": "The Primordial",
+      "stack_size": 5,
+      "drop_areas": [
+        "Coves Map",
+        "Flooded Mine Map",
+        "Geode Map",
+        "Grotto Map",
+        "Peninsula Map",
+        "Vault Map",
+        "Waterways Map",
+        "Wharf Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Professor",
+      "stack_size": 4,
+      "drop_areas": ["Laboratory Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Progeny of Lunaris",
+      "stack_size": 2,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Puzzle",
+      "stack_size": 5,
+      "drop_areas": null,
+      "drop_restrictions": "The Puzzle can drop from Beyond demons."
+    },
+    {
+      "name": "The Queen",
+      "stack_size": 16,
+      "drop_areas": ["Vaults of Atziri"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Rabid Rhoa",
+      "stack_size": 4,
+      "drop_areas": ["Arid Lake Map"],
+      "drop_restrictions": "The Rabid Rhoa can only drop from Drought-Maddened Rhoa."
+    },
+    {
+      "name": "The Realm",
+      "stack_size": 5,
+      "drop_areas": null,
+      "drop_restrictions": "Can drop from Breach monsters."
+    },
+    {
+      "name": "The Risk",
+      "stack_size": 3,
+      "drop_areas": null,
+      "drop_restrictions": "The Risk can drop from the following loot containers:<br>* Diviner's Strongbox<br>* The Lord's Labyrinth#Chests|Izaro's Treasure in the Endgame Labyrinth"
+    },
+    {
+      "name": "The Rite of Elements",
+      "stack_size": 5,
+      "drop_areas": [
+        "Courthouse Map",
+        "Coves Map",
+        "Flooded Mine Map",
+        "Geode Map",
+        "Grotto Map",
+        "Vault Map",
+        "Waterways Map",
+        "Wharf Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Road to Power",
+      "stack_size": 7,
+      "drop_areas": ["Castle Ruins Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Ruthless Ceinture",
+      "stack_size": 7,
+      "drop_areas": [
+        "The Descent",
+        "The Foothills",
+        "Dig Map",
+        "Maze of the Minotaur Map",
+        "Summit Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Sacrifice",
+      "stack_size": 4,
+      "drop_areas": ["The Temple of Atzoatl"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Saint's Treasure",
+      "stack_size": 10,
+      "drop_areas": [
+        "The Slums",
+        "The Marketplace",
+        "The Imperial Fields",
+        "The Grain Gate",
+        "Alleyways Map",
+        "Arcade Map",
+        "Arsenal Map",
+        "Bazaar Map",
+        "Ghetto Map",
+        "Port Map",
+        "Precinct Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Samurai's Eye",
+      "stack_size": 3,
+      "drop_areas": null,
+      "drop_restrictions": "This item can be acquired from an Abyssal Lich in the Abyssal Depths."
+    },
+    {
+      "name": "The Scarred Meadow",
+      "stack_size": 9,
+      "drop_areas": [
+        "The Old Fields",
+        "Ashen Wood Map",
+        "Fields Map",
+        "Peninsula Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Scavenger",
+      "stack_size": 8,
+      "drop_areas": [
+        "The Aqueduct",
+        "Channel Map",
+        "Chateau Map",
+        "Underground River Map"
+      ],
+      "drop_restrictions": "The Hundred Foot Shadow, The Winged Death, Hephaeus, The Hammer, It That Fell"
+    },
+    {
+      "name": "The Scholar",
+      "stack_size": 3,
+      "drop_areas": [
+        "The Library",
+        "The Archives",
+        "Academy Map",
+        "Museum Map",
+        "Scriptorium Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Seeker",
+      "stack_size": 9,
+      "drop_areas": ["The Temple of Atzoatl"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Sephirot",
+      "stack_size": 11,
+      "drop_areas": ["The Upper Sceptre of God", "Palace Map"],
+      "drop_restrictions": "Dominus or corresponding bosses"
+    },
+    {
+      "name": "The Side Quest",
+      "stack_size": 5,
+      "drop_areas": ["Vault Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Sigil",
+      "stack_size": 3,
+      "drop_areas": ["Overgrown Shrine Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Siren",
+      "stack_size": 7,
+      "drop_areas": [
+        "The Cavern of Anger (Act 6)",
+        "The Brine King's Reef",
+        "Maelstr\u00f6m of Chaos",
+        "Underground Sea Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Skeleton",
+      "stack_size": 6,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Soul",
+      "stack_size": 9,
+      "drop_areas": [
+        "Cells Map",
+        "Overgrown Shrine Map",
+        "Sepulchre Map",
+        "Crater Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Spark and the Flame",
+      "stack_size": 2,
+      "drop_areas": ["Atoll Map", "Maelstr\u00f6m of Chaos", "Plateau Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Spoiled Prince",
+      "stack_size": 4,
+      "drop_areas": ["The Temple of Decay Level 1", "Vaal Pyramid Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Standoff",
+      "stack_size": 3,
+      "drop_areas": [
+        "The Torched Courts (Act 5)",
+        "The Torched Courts (Act 10)",
+        "Bone Crypt Map",
+        "Lava Chamber Map",
+        "Forge of the Phoenix Map",
+        "Crater Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Stormcaller",
+      "stack_size": 4,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Strategist",
+      "stack_size": 6,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Summoner",
+      "stack_size": 6,
+      "drop_areas": [
+        "The Fetid Pool",
+        "The Lower Prison (Act 1)",
+        "The Upper Prison",
+        "The Crypt Level 2",
+        "The Chamber of Sins Level 1 (Act 2)",
+        "The Chamber of Sins Level 2 (Act 2)",
+        "The Crematorium",
+        "The Catacombs",
+        "Shavronne's Tower",
+        "Bone Crypt Map",
+        "Cells Map",
+        "Cursed Crypt Map",
+        "Dungeon Map",
+        "Lava Chamber Map",
+        "Overgrown Ruin Map",
+        "Acton's Nightmare",
+        "Primordial Blocks Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Sun",
+      "stack_size": 7,
+      "drop_areas": [
+        "The Solaris Temple Level 1 (Act 3)",
+        "The Solaris Temple Level 2 (Act 3)",
+        "The Solaris Temple Level 1 (Act 8)",
+        "Ivory Temple Map",
+        "The Twilight Temple",
+        "Temple Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Surgeon",
+      "stack_size": 4,
+      "drop_areas": [
+        "The Chamber of Sins Level 1 (Act 7)",
+        "The Chamber of Sins Level 2 (Act 7)",
+        "Overgrown Ruin Map",
+        "Overgrown Shrine Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Surveyor",
+      "stack_size": 4,
+      "drop_areas": [
+        "Carcass Map",
+        "Core Map",
+        "Malformation Map",
+        "Phantasmagoria Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Survivalist",
+      "stack_size": 3,
+      "drop_areas": [
+        "The Wetlands (Act 2)",
+        "Flooded Mine Map",
+        "Mineral Pools Map",
+        "Underground Sea Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Sustenance",
+      "stack_size": 3,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Sword King's Salute",
+      "stack_size": 7,
+      "drop_areas": ["Colosseum Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Thaumaturgist",
+      "stack_size": 8,
+      "drop_areas": ["Shrine Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Throne",
+      "stack_size": 2,
+      "drop_areas": [
+        "Lair of the Hydra Map",
+        "Toxic Sewer Map",
+        "Waste Pool Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Tinkerer's Table",
+      "stack_size": 5,
+      "drop_areas": ["Arid Lake Map", "Barrows Map", "Geode Map", "Mesa Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Tower",
+      "stack_size": 6,
+      "drop_areas": [
+        "The Sceptre of God",
+        "The Upper Sceptre of God",
+        "Shavronne's Tower",
+        "Residence Map",
+        "Tower Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Traitor",
+      "stack_size": 4,
+      "drop_areas": [
+        "The Battlefront",
+        "The Sarn Ramparts",
+        "The Solaris Concourse",
+        "Promenade Map",
+        "Ramparts Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Trial",
+      "stack_size": 7,
+      "drop_areas": [
+        "Arachnid Nest Map",
+        "Arachnid Tomb Map",
+        "Arena Map",
+        "Armoury Map",
+        "Bazaar Map",
+        "Belfry Map",
+        "Bog Map",
+        "Bone Crypt Map",
+        "Colonnade Map",
+        "Coral Ruins Map",
+        "Courtyard Map",
+        "Coves Map",
+        "Cursed Crypt Map",
+        "Dunes Map",
+        "Estuary Map",
+        "Factory Map",
+        "Gardens Map",
+        "Geode Map",
+        "Harbinger Map",
+        "Infested Valley Map",
+        "Laboratory Map",
+        "Lair Map",
+        "Lava Chamber Map",
+        "Mausoleum Map",
+        "Mesa Map",
+        "Mineral Pools Map",
+        "Moon Temple Map",
+        "Mud Geyser Map",
+        "Museum Map",
+        "The Putrid Cloister",
+        "Orchard Map",
+        "Overgrown Ruin Map",
+        "Pier Map",
+        "Pit Map",
+        "Plateau Map",
+        "Precinct Map",
+        "Primordial Pool Map",
+        "Promenade Map",
+        "Ramparts Map",
+        "Residence Map",
+        "Scriptorium Map",
+        "Sepulchre Map",
+        "Shipyard Map",
+        "Shore Map",
+        "Siege Map",
+        "Spider Forest Map",
+        "Temple Map",
+        "Tower Map",
+        "Crater Map",
+        "Tropical Island Map",
+        "Underground River Map",
+        "Caer Blaidd, Wolfpack's Den",
+        "Vaal Pyramid Map",
+        "Vault Map",
+        "Wasteland Map",
+        "Waste Pool Map",
+        "Waterways Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Tumbleweed",
+      "stack_size": 2,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Twilight Moon",
+      "stack_size": 6,
+      "drop_areas": ["Moon Temple Map", "Temple Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Twins (divination card)",
+      "stack_size": 8,
+      "drop_areas": ["Ivory Temple Map", "Moon Temple Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Tyrant",
+      "stack_size": 9,
+      "drop_areas": ["Precinct Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Undaunted",
+      "stack_size": 5,
+      "drop_areas": ["Basilica Map", "Courthouse Map", "Precinct Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Undisputed",
+      "stack_size": 8,
+      "drop_areas": null,
+      "drop_restrictions": "This item can be acquired from Chayula, Who Dreamt"
+    },
+    {
+      "name": "The Union",
+      "stack_size": 7,
+      "drop_areas": ["Cemetery Map", "Graveyard Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Valkyrie",
+      "stack_size": 8,
+      "drop_areas": null,
+      "drop_restrictions": "The Valkyrie has been reported to drop from Rogue exiles regardless of map type or world area."
+    },
+    {
+      "name": "The Valley of Steel Boxes",
+      "stack_size": 9,
+      "drop_areas": null,
+      "drop_restrictions": "The Valley of Steel Boxes can drop from strongboxes."
+    },
+    {
+      "name": "The Vast",
+      "stack_size": 7,
+      "drop_areas": ["Coral Ruins Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Visionary",
+      "stack_size": 6,
+      "drop_areas": [
+        "The Grand Arena",
+        "Arena Map",
+        "Colosseum Map",
+        "Racecourse Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Void",
+      "stack_size": 1,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Warden",
+      "stack_size": 4,
+      "drop_areas": [
+        "The Lower Prison (Act 1)",
+        "The Upper Prison",
+        "The Slave Pens",
+        "The Lower Prison (Act 6)",
+        "Shavronne's Tower",
+        "Cage Map",
+        "Dungeon Map",
+        "Pen Map",
+        "Tower Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Warlord",
+      "stack_size": 6,
+      "drop_areas": ["Arsenal Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Watcher",
+      "stack_size": 12,
+      "drop_areas": ["Geode Map", "Grotto Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Web",
+      "stack_size": 8,
+      "drop_areas": [
+        "The Weaver's Chambers",
+        "Arachnid Nest Map",
+        "Arachnid Tomb Map",
+        "Jungle Valley Map",
+        "Spider Lair Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The White Knight",
+      "stack_size": 8,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Wilted Rose",
+      "stack_size": 7,
+      "drop_areas": ["Acton's Nightmare"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Wind",
+      "stack_size": 7,
+      "drop_areas": ["Atoll Map", "Jungle Valley Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Witch",
+      "stack_size": 8,
+      "drop_areas": ["Burial Chambers Map", "Spider Forest Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Wolf",
+      "stack_size": 5,
+      "drop_areas": ["Flooded Mine Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Wolf's Legacy",
+      "stack_size": 4,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Wolf's Shadow",
+      "stack_size": 3,
+      "drop_areas": [
+        "Lair Map",
+        "Underground River Map",
+        "Caer Blaidd, Wolfpack's Den"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Wolven King's Bite",
+      "stack_size": 8,
+      "drop_areas": ["Dark Forest Map", "Lair Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Wolverine",
+      "stack_size": 4,
+      "drop_areas": ["Prisoner's Gate (Act 6)", "Glacier Map", "Summit Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The World Eater",
+      "stack_size": 8,
+      "drop_areas": null,
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Wrath",
+      "stack_size": 8,
+      "drop_areas": [
+        "The Cathedral Rooftop (Act 5)",
+        "The Canals",
+        "The Feeding Trough",
+        "The Cavern of Anger (Act 6)",
+        "Belfry Map",
+        "Lava Lake Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "The Wretched",
+      "stack_size": 6,
+      "drop_areas": [
+        "Bone Crypt Map",
+        "Cells Map",
+        "Cursed Crypt Map",
+        "The Coward's Trial",
+        "Dungeon Map",
+        "Necropolis Map",
+        "Overgrown Ruin Map",
+        "Acton's Nightmare",
+        "Forge of the Phoenix Map",
+        "Primordial Blocks Map",
+        "Tower Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Thirst for Knowledge",
+      "stack_size": 5,
+      "drop_areas": ["The Library", "The Archives", "Academy Map", "Museum Map"],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Three Faces in the Dark",
+      "stack_size": 7,
+      "drop_areas": [
+        "The Marketplace",
+        "The Imperial Fields",
+        "The Grain Gate",
+        "The Refinery",
+        "Arsenal Map",
+        "Factory Map"
+      ],
+      "drop_restrictions": null
+    },
+    {
+      "name": "Three Voices",
+      "stack_size": 3,
+      "drop_areas": [
+        "Arena Map",
+        "City Square Map",
+        "Courthouse Map",
+        "Courtyard Map",
+        "Crystal Ore Map",
+        "Graveyard Map",
+        "Racecourse Map",
+        "Vaal Pyramid Map",
+        "Vaal Temple Map"
+      ],
+      "drop_restrictions": "This item can be acquired in maps that have 3 bosses."
+    }
+  ]

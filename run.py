@@ -14,5 +14,6 @@ except OSError:
 process = CrawlerProcess(get_project_settings())
 
 process.crawl('currency')
+process.crawl("divination")
 
 process.start()

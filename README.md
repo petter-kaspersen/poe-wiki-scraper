@@ -33,10 +33,26 @@ Check out `example_*.json` for examples for the various JSON-responses.
 }
 ```
 
+#### Divination cards
+```json
+{
+	"name": "A Dab of Ink",
+    "stack_size": 9,
+    "drop_areas": [
+      "The Library",
+      "Academy Map",
+      "Museum Map",
+      "Scriptorium Map"
+    ],
+	"drop_restrictions": null
+}
+```
+
 
 ### Current supported scrapers:
 
 [Currency](https://pathofexile.gamepedia.com/Currency)
+[Divination cards](https://pathofexile.gamepedia.com/Divination_card)
 
 ### License
 Licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) as Gamepedia requires.
