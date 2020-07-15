@@ -1,0 +1,1154 @@
+[
+  {
+    "name": "Albino Rhoa Feather",
+    "image": "albino-rhoa-feather.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Shift click to unstack."
+  },
+  {
+    "name": "Armourer's Scrap",
+    "image": "armourers-scrap.png",
+    "drop_level": 1,
+    "stack_size": 40,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click an armour to apply it. Has greater effect on lower-rarity armours. The maximum quality is 20%.<br>Shift click to unstack."
+  },
+  {
+    "name": "Awakened Sextant",
+    "image": "awakened-sextant.png",
+    "drop_level": 78,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a Watchstone to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Awakener's Orb",
+    "image": "awakeners-orb.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item, then left click the item you wish to take the influence from, then left click an item of the same item class you wish to apply it to.<br>Shift click to unstack."
+  },
+  {
+    "name": "Bestiary Orb",
+    "image": "bestiary-orb.png",
+    "drop_level": 15,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click on this item then left click on a Beast in your Menagerie to turn it into a tradable item.<br>Shift click to unstack."
+  },
+  {
+    "name": "Blacksmith's Whetstone",
+    "image": "blacksmiths-whetstone.png",
+    "drop_level": 1,
+    "stack_size": 20,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a weapon to apply it. Has greater effect on lower-rarity weapons. The maximum quality is 20%.<br>Shift click to unstack."
+  },
+  {
+    "name": "Blessed Orb",
+    "image": "blessed-orb.png",
+    "drop_level": 35,
+    "stack_size": 20,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click another item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Blessing of Chayula",
+    "image": "blessing-of-chayula.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click an applicable breach unique item to upgrade it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Blessing of Esh",
+    "image": "blessing-of-esh.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click an applicable breach unique item to upgrade it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Blessing of Tul",
+    "image": "blessing-of-tul.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click an applicable breach unique item to upgrade it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Blessing of Uul-Netol",
+    "image": "blessing-of-uul-netol.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click an applicable breach unique item to upgrade it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Blessing of Xoph",
+    "image": "blessing-of-xoph.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click an applicable breach unique item to upgrade it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Cartographer's Chisel",
+    "image": "cartographers-chisel.png",
+    "drop_level": 52,
+    "stack_size": 20,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a map to apply it. Has greater effect on lower-rarity maps. The maximum quality is 20%.<br>Shift click to unstack."
+  },
+  {
+    "name": "Chaos Orb",
+    "image": "chaos-orb.png",
+    "drop_level": 12,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a rare item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Chromatic Orb",
+    "image": "chromatic-orb.png",
+    "drop_level": 2,
+    "stack_size": 20,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a socketed item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Crusader's Exalted Orb",
+    "image": "crusaders-exalted-orb.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a high-level rare item with no influence to apply it. Rare items can have up to six random modifiers. The item's Catalyst quality increases the chance of applying a modifier which matches the quality type. Removes 20% Quality applied by Catalysts on use.<br>Shift click to unstack."
+  },
+  {
+    "name": "Divine Orb",
+    "image": "divine-orb.png",
+    "drop_level": 35,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a magic, rare or unique item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Exalted Orb",
+    "image": "exalted-orb.png",
+    "drop_level": 35,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a rare item to apply it. Rare items can have up to six random modifiers. The item's Catalyst quality increases the chance of applying a modifier which matches the quality type. Removes 20% Quality applied by Catalysts on use.<br>Shift click to unstack."
+  },
+  {
+    "name": "Gemcutter's Prism",
+    "image": "gemcutters-prism.png",
+    "drop_level": 12,
+    "stack_size": 20,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a gem to apply it. The maximum quality is 20%.<br>Shift click to unstack."
+  },
+  {
+    "name": "Glassblower's Bauble",
+    "image": "glassblowers-bauble.png",
+    "drop_level": 2,
+    "stack_size": 20,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a flask to apply it. Has greater effect on lower-rarity flasks. The maximum quality is 20%.<br>Shift click to unstack."
+  },
+  {
+    "name": "Hunter's Exalted Orb",
+    "image": "hunters-exalted-orb.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a high-level rare item with no influence to apply it. Rare items can have up to six random modifiers. The item's Catalyst quality increases the chance of applying a modifier which matches the quality type. Removes 20% Quality applied by Catalysts on use.<br>Shift click to unstack."
+  },
+  {
+    "name": "Jeweller's Orb",
+    "image": "jewellers-orb.png",
+    "drop_level": 8,
+    "stack_size": 20,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a socketed item to apply it. The item's quality increases the chances of obtaining more sockets.<br>Shift click to unstack."
+  },
+  {
+    "name": "Mirror of Kalandra",
+    "image": "mirror-of-kalandra.png",
+    "drop_level": 35,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click an equipable non-unique item to apply it. Mirrored copies cannot be modified.<br>Shift click to unstack."
+  },
+  {
+    "name": "Orb of Alchemy",
+    "image": "orb-of-alchemy.png",
+    "drop_level": 2,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a normal item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Orb of Alteration",
+    "image": "orb-of-alteration.png",
+    "drop_level": 2,
+    "stack_size": 20,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a magic item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Orb of Annulment",
+    "image": "orb-of-annulment.png",
+    "drop_level": 35,
+    "stack_size": 20,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click on a magic or rare item to apply it. The item's Catalyst quality decreases the chance of removing a modifier which matches the quality type. Removes 20% Quality applied by Catalysts on use.<br>Shift click to unstack."
+  },
+  {
+    "name": "Orb of Augmentation",
+    "image": "orb-of-augmentation.png",
+    "drop_level": 1,
+    "stack_size": 30,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a magic item to apply it. Magic items can have up to two random modifiers. The item's Catalyst quality increases the chance of applying a modifier which matches the quality type. Removes 2% Quality applied by Catalysts on use.<br>Shift click to unstack."
+  },
+  {
+    "name": "Orb of Chance",
+    "image": "orb-of-chance.png",
+    "drop_level": 2,
+    "stack_size": 20,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a normal item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Orb of Fusing",
+    "image": "orb-of-fusing.png",
+    "drop_level": 8,
+    "stack_size": 20,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a socketed item to apply it. The item's quality increases the chances of obtaining more links.<br>Shift click to unstack."
+  },
+  {
+    "name": "Orb of Regret",
+    "image": "orb-of-regret.png",
+    "drop_level": 2,
+    "stack_size": 40,
+    "tab_stack_size": 5000,
+    "help_text": "Right click on this item to use it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Orb of Scouring",
+    "image": "orb-of-scouring.png",
+    "drop_level": 12,
+    "stack_size": 30,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click on a magic or rare item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Orb of Transmutation",
+    "image": "orb-of-transmutation.png",
+    "drop_level": 1,
+    "stack_size": 40,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a normal item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Portal Scroll",
+    "image": "portal-scroll.png",
+    "drop_level": 2,
+    "stack_size": 40,
+    "tab_stack_size": 5000,
+    "help_text": "Right click on this item to use it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Prime Sextant",
+    "image": "prime-sextant.png",
+    "drop_level": 73,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a Watchstone to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Redeemer's Exalted Orb",
+    "image": "redeemers-exalted-orb.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a high-level rare item with no influence to apply it. Rare items can have up to six random modifiers. The item's Catalyst quality increases the chance of applying a modifier which matches the quality type. Removes 20% Quality applied by Catalysts on use.<br>Shift click to unstack."
+  },
+  {
+    "name": "Regal Orb",
+    "image": "regal-orb.png",
+    "drop_level": 12,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a magic item to apply it. Current modifiers are retained and a new one is added. The item's Catalyst quality increases the chance of applying a modifier which matches the quality type. Removes 5% Quality applied by Catalysts on use.<br>Shift click to unstack."
+  },
+  {
+    "name": "Scroll of Wisdom",
+    "image": "scroll-of-wisdom.png",
+    "drop_level": 1,
+    "stack_size": 40,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click an unidentified item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Silver Coin",
+    "image": "silver-coin.png",
+    "drop_level": 1,
+    "stack_size": 30,
+    "tab_stack_size": 5000,
+    "help_text": "Cross Navali's palm with silver to receive a prophecy.<br>Shift click to unstack."
+  },
+  {
+    "name": "Simple Sextant",
+    "image": "simple-sextant.png",
+    "drop_level": 68,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a Watchstone to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Stacked Deck",
+    "image": "stacked-deck.png",
+    "drop_level": 50,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click to take a divination card out of the deck.<br>Shift click to unstack."
+  },
+  {
+    "name": "Vaal Orb",
+    "image": "vaal-orb.png",
+    "drop_level": 12,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click an item to corrupt it. Corrupted items cannot be modified again.<br>Shift click to unstack."
+  },
+  {
+    "name": "Warlord's Exalted Orb",
+    "image": "warlords-exalted-orb.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a high-level rare item with no influence to apply it. Rare items can have up to six random modifiers. The item's Catalyst quality increases the chance of applying a modifier which matches the quality type. Removes 20% Quality applied by Catalysts on use.<br>Shift click to unstack."
+  },
+  {
+    "name": "Alchemy Shard",
+    "image": "alchemy-shard.png",
+    "drop_level": null,
+    "stack_size": 20,
+    "tab_stack_size": null,
+    "help_text": "A stack of 20 shards becomes an Orb of Alchemy.<br>Shift click to unstack."
+  },
+  {
+    "name": "Alteration Shard",
+    "image": "alteration-shard.png",
+    "drop_level": null,
+    "stack_size": 20,
+    "tab_stack_size": null,
+    "help_text": "A stack of 20 shards becomes an Orb of Alteration.<br>Shift click to unstack."
+  },
+  {
+    "name": "Scroll Fragment",
+    "image": "scroll-fragment.png",
+    "drop_level": null,
+    "stack_size": 5,
+    "tab_stack_size": null,
+    "help_text": "A stack of 5 fragments becomes a Scroll of Wisdom.<br>Shift click to unstack."
+  },
+  {
+    "name": "Splinter of Chayula",
+    "image": "splinter-of-chayula.png",
+    "drop_level": 1,
+    "stack_size": 100,
+    "tab_stack_size": 5000,
+    "help_text": "Combine 100 splinters to create Chayula's Breachstone.<br>Shift click to unstack."
+  },
+  {
+    "name": "Splinter of Esh",
+    "image": "splinter-of-esh.png",
+    "drop_level": 1,
+    "stack_size": 100,
+    "tab_stack_size": 5000,
+    "help_text": "Combine 100 Splinters to create Esh's Breachstone.<br>Shift click to unstack."
+  },
+  {
+    "name": "Splinter of Tul",
+    "image": "splinter-of-tul.png",
+    "drop_level": 1,
+    "stack_size": 100,
+    "tab_stack_size": 5000,
+    "help_text": "Combine 100 Splinters to create Tul's Breachstone.<br>Shift click to unstack."
+  },
+  {
+    "name": "Splinter of Uul-Netol",
+    "image": "splinter-of-uul-netol.png",
+    "drop_level": 1,
+    "stack_size": 100,
+    "tab_stack_size": 5000,
+    "help_text": "Combine 100 Splinters to create Uul-Netol's Breachstone.<br>Shift click to unstack."
+  },
+  {
+    "name": "Splinter of Xoph",
+    "image": "splinter-of-xoph.png",
+    "drop_level": 1,
+    "stack_size": 100,
+    "tab_stack_size": 5000,
+    "help_text": "Combine 100 Splinters to create Xoph's Breachstone.<br>Shift click to unstack."
+  },
+  {
+    "name": "Transmutation Shard",
+    "image": "transmutation-shard.png",
+    "drop_level": null,
+    "stack_size": 20,
+    "tab_stack_size": null,
+    "help_text": "A stack of 20 shards becomes an Orb of Transmutation.<br>Shift click to unstack."
+  },
+  {
+    "name": "Vial of Awakening",
+    "image": "vial-of-awakening.png",
+    "drop_level": 50,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Sacrifice this item on the Altar of Sacrifice along with Apep's Slumber to transform it. <br>Shift click to unstack."
+  },
+  {
+    "name": "Vial of Consequence",
+    "image": "vial-of-consequence.png",
+    "drop_level": 50,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Sacrifice this item on the Altar of Sacrifice along with Coward's Chains to transform it. <br>Shift click to unstack."
+  },
+  {
+    "name": "Vial of Dominance",
+    "image": "vial-of-dominance.png",
+    "drop_level": 50,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Sacrifice this item on the Altar of Sacrifice along with Architect's Hand to transform it. <br>Shift click to unstack."
+  },
+  {
+    "name": "Vial of Fate",
+    "image": "vial-of-fate.png",
+    "drop_level": 50,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Sacrifice this item on the Altar of Sacrifice along with Story of the Vaal to transform it. <br>Shift click to unstack."
+  },
+  {
+    "name": "Vial of Sacrifice",
+    "image": "vial-of-sacrifice.png",
+    "drop_level": 68,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Sacrifice this item on the Altar of Sacrifice along with Sacrificial Heart to transform it. <br>Shift click to unstack."
+  },
+  {
+    "name": "Vial of Summoning",
+    "image": "vial-of-summoning.png",
+    "drop_level": 50,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Sacrifice this item on the Altar of Sacrifice along with Mask of the Spirit Drinker to transform it. <br>Shift click to unstack."
+  },
+  {
+    "name": "Vial of the Ghost",
+    "image": "vial-of-the-ghost.png",
+    "drop_level": 68,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Sacrifice this item on the Altar of Sacrifice along with Soul Catcher to transform it. <br>Shift click to unstack."
+  },
+  {
+    "name": "Vial of the Ritual",
+    "image": "vial-of-the-ritual.png",
+    "drop_level": 50,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Sacrifice this item on the Altar of Sacrifice along with Dance of the Offered to transform it. <br>Shift click to unstack."
+  },
+  {
+    "name": "Vial of Transcendence",
+    "image": "vial-of-transcendence.png",
+    "drop_level": 50,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Sacrifice this item on the Altar of Sacrifice along with any Tempered Flesh, Tempered Spirit or Tempered Mind to transform it. <br>Shift click to unstack."
+  },
+  {
+    "name": "Ancient Orb",
+    "image": "ancient-orb.png",
+    "drop_level": 1,
+    "stack_size": 20,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a unique item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Ancient Shard",
+    "image": "ancient-shard.png",
+    "drop_level": 35,
+    "stack_size": 20,
+    "tab_stack_size": null,
+    "help_text": "A stack of 20 shards becomes an Ancient Orb.<br>Shift click to unstack."
+  },
+  {
+    "name": "Annulment Shard",
+    "image": "annulment-shard.png",
+    "drop_level": 35,
+    "stack_size": 20,
+    "tab_stack_size": null,
+    "help_text": "A stack of 20 shards becomes an Orb of Annulment.<br>Shift click to unstack."
+  },
+  {
+    "name": "Binding Shard",
+    "image": "binding-shard.png",
+    "drop_level": 1,
+    "stack_size": 20,
+    "tab_stack_size": null,
+    "help_text": "A stack of 20 shards becomes an Orb of Binding.<br>Shift click to unstack."
+  },
+  {
+    "name": "Chaos Shard",
+    "image": "chaos-shard.png",
+    "drop_level": 8,
+    "stack_size": 20,
+    "tab_stack_size": null,
+    "help_text": "A stack of 20 shards becomes a Chaos Orb.<br>Shift click to unstack."
+  },
+  {
+    "name": "Engineer's Orb",
+    "image": "engineers-orb.png",
+    "drop_level": 1,
+    "stack_size": 20,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a Strongbox to apply it. Has greater effect on lower rarity Strongboxes. The maximum quality is 20%.<br>Shift click to unstack."
+  },
+  {
+    "name": "Engineer's Shard",
+    "image": "engineers-shard.png",
+    "drop_level": 8,
+    "stack_size": 20,
+    "tab_stack_size": null,
+    "help_text": "A stack of 20 shards becomes an Engineer's Orb.<br>Shift click to unstack."
+  },
+  {
+    "name": "Exalted Shard",
+    "image": "exalted-shard.png",
+    "drop_level": 35,
+    "stack_size": 20,
+    "tab_stack_size": null,
+    "help_text": "A stack of 20 shards becomes an Exalted Orb.<br>Shift click to unstack."
+  },
+  {
+    "name": "Harbinger's Orb",
+    "image": "harbingers-orb.png",
+    "drop_level": 1,
+    "stack_size": 20,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a map to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Harbinger's Shard",
+    "image": "harbingers-shard.png",
+    "drop_level": 52,
+    "stack_size": 20,
+    "tab_stack_size": null,
+    "help_text": "A stack of 20 shards becomes a Harbinger's Orb.<br>Shift click to unstack."
+  },
+  {
+    "name": "Horizon Shard",
+    "image": "horizon-shard.png",
+    "drop_level": 52,
+    "stack_size": 20,
+    "tab_stack_size": null,
+    "help_text": "A stack of 20 shards becomes an Orb of Horizons.<br>Shift click to unstack."
+  },
+  {
+    "name": "Mirror Shard",
+    "image": "mirror-shard.png",
+    "drop_level": 35,
+    "stack_size": 20,
+    "tab_stack_size": null,
+    "help_text": "A stack of 20 shards becomes a Mirror of Kalandra.<br>Shift click to unstack."
+  },
+  {
+    "name": "Orb of Binding",
+    "image": "orb-of-binding.png",
+    "drop_level": 1,
+    "stack_size": 20,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a normal item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Regal Shard",
+    "image": "regal-shard.png",
+    "drop_level": 12,
+    "stack_size": 20,
+    "tab_stack_size": null,
+    "help_text": "A stack of 20 shards becomes a Regal Orb.<br>Shift click to unstack."
+  },
+  {
+    "name": "Perandus Coin",
+    "image": "perandus-coin.png",
+    "drop_level": 1,
+    "stack_size": 1000,
+    "tab_stack_size": 50000,
+    "help_text": "Trade coins to Cadiro Perandus.<br>Shift click to unstack."
+  },
+  {
+    "name": "Aberrant Fossil",
+    "image": "aberrant-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Aetheric Fossil",
+    "image": "aetheric-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Bloodstained Fossil",
+    "image": "bloodstained-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Bound Fossil",
+    "image": "bound-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Corroded Fossil",
+    "image": "corroded-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Dense Fossil",
+    "image": "dense-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Enchanted Fossil",
+    "image": "enchanted-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Encrusted Fossil",
+    "image": "encrusted-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Faceted Fossil",
+    "image": "faceted-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Fractured Fossil",
+    "image": "fractured-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Frigid Fossil",
+    "image": "frigid-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Gilded Fossil",
+    "image": "gilded-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Glyphic Fossil",
+    "image": "glyphic-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Hollow Fossil",
+    "image": "hollow-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Jagged Fossil",
+    "image": "jagged-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Lucent Fossil",
+    "image": "lucent-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Metallic Fossil",
+    "image": "metallic-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Perfect Fossil",
+    "image": "perfect-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Prismatic Fossil",
+    "image": "prismatic-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Pristine Fossil",
+    "image": "pristine-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Sanctified Fossil",
+    "image": "sanctified-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Scorched Fossil",
+    "image": "scorched-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Serrated Fossil",
+    "image": "serrated-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Shuddering Fossil",
+    "image": "shuddering-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Tangled Fossil",
+    "image": "tangled-fossil.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Place in a Resonator to influence item crafting.<br>Shift click to unstack."
+  },
+  {
+    "name": "Potent Alchemical Resonator",
+    "image": "potent-alchemical-resonator.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Right click this item then left click a normal item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Potent Chaotic Resonator",
+    "image": "potent-chaotic-resonator.png",
+    "drop_level": 34,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Right click this item then left click a rare item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Powerful Alchemical Resonator",
+    "image": "powerful-alchemical-resonator.png",
+    "drop_level": 34,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Right click this item then left click a normal item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Powerful Chaotic Resonator",
+    "image": "powerful-chaotic-resonator.png",
+    "drop_level": 34,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Right click this item then left click a rare item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Prime Alchemical Resonator",
+    "image": "prime-alchemical-resonator.png",
+    "drop_level": 68,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Right click this item then left click a normal item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Prime Chaotic Resonator",
+    "image": "prime-chaotic-resonator.png",
+    "drop_level": 68,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Right click this item then left click a rare item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Primitive Alchemical Resonator",
+    "image": "primitive-alchemical-resonator.png",
+    "drop_level": 1,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Right click this item then left click a normal item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Primitive Chaotic Resonator",
+    "image": "primitive-chaotic-resonator.png",
+    "drop_level": 34,
+    "stack_size": null,
+    "tab_stack_size": null,
+    "help_text": "Right click this item then left click a rare item to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Amber Oil",
+    "image": "amber-oil.png",
+    "drop_level": 19,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.<br>Shift click to unstack."
+  },
+  {
+    "name": "Azure Oil",
+    "image": "azure-oil.png",
+    "drop_level": 44,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.<br>Shift click to unstack."
+  },
+  {
+    "name": "Black Oil",
+    "image": "black-oil.png",
+    "drop_level": 68,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.<br>Shift click to unstack."
+  },
+  {
+    "name": "Clear Oil",
+    "image": "clear-oil.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.<br>Shift click to unstack."
+  },
+  {
+    "name": "Crimson Oil",
+    "image": "crimson-oil.png",
+    "drop_level": 60,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.<br>Shift click to unstack."
+  },
+  {
+    "name": "Golden Oil",
+    "image": "golden-oil.png",
+    "drop_level": 80,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.<br>Shift click to unstack."
+  },
+  {
+    "name": "Indigo Oil",
+    "image": "indigo-oil.png",
+    "drop_level": 48,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.<br>Shift click to unstack."
+  },
+  {
+    "name": "Opalescent Oil",
+    "image": "opalescent-oil.png",
+    "drop_level": 73,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.<br>Shift click to unstack."
+  },
+  {
+    "name": "Sepia Oil",
+    "image": "sepia-oil.png",
+    "drop_level": 10,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.<br>Shift click to unstack."
+  },
+  {
+    "name": "Silver Oil",
+    "image": "silver-oil.png",
+    "drop_level": 78,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.<br>Shift click to unstack."
+  },
+  {
+    "name": "Teal Oil",
+    "image": "teal-oil.png",
+    "drop_level": 36,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.<br>Shift click to unstack."
+  },
+  {
+    "name": "Verdant Oil",
+    "image": "verdant-oil.png",
+    "drop_level": 27,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.<br>Shift click to unstack."
+  },
+  {
+    "name": "Violet Oil",
+    "image": "violet-oil.png",
+    "drop_level": 52,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Can be combined with other Oils at Cassia to Enchant Rings or Amulets, or to modify Blighted Maps.<br>Shift click to unstack."
+  },
+  {
+    "name": "Abrasive Catalyst",
+    "image": "abrasive-catalyst.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a ring, amulet or belt to apply it. Has greater effect on lower-rarity jewellery. The maximum quality is 20%.<br>Shift click to unstack."
+  },
+  {
+    "name": "Fertile Catalyst",
+    "image": "fertile-catalyst.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a ring, amulet or belt to apply it. Has greater effect on lower-rarity jewellery. The maximum quality is 20%.<br>Shift click to unstack."
+  },
+  {
+    "name": "Imbued Catalyst",
+    "image": "imbued-catalyst.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a ring, amulet or belt to apply it. Has greater effect on lower-rarity jewellery. The maximum quality is 20%.<br>Shift click to unstack."
+  },
+  {
+    "name": "Intrinsic Catalyst",
+    "image": "intrinsic-catalyst.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a ring, amulet or belt to apply it. Has greater effect on lower-rarity jewellery. The maximum quality is 20%.<br>Shift click to unstack."
+  },
+  {
+    "name": "Prismatic Catalyst",
+    "image": "prismatic-catalyst.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a ring, amulet or belt to apply it. Has greater effect on lower-rarity jewellery. The maximum quality is 20%.<br>Shift click to unstack."
+  },
+  {
+    "name": "Tempering Catalyst",
+    "image": "tempering-catalyst.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a ring, amulet or belt to apply it. Has greater effect on lower-rarity jewellery. The maximum quality is 20%.<br>Shift click to unstack."
+  },
+  {
+    "name": "Turbulent Catalyst",
+    "image": "turbulent-catalyst.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a ring, amulet or belt to apply it. Has greater effect on lower-rarity jewellery. The maximum quality is 20%.<br>Shift click to unstack."
+  },
+  {
+    "name": "Eternal Orb",
+    "image": "eternal-orb.png",
+    "drop_level": 40,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click on an item to create an imprint. This imprint can later be used to restore this specific item to that imprinted state.<br>Shift click to unstack."
+  },
+  {
+    "name": "Unshaping Orb",
+    "image": "unshaping-orb.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a shaped map on the atlas to downgrade it. You can then earn the Shaper's Orb again to reshape another map afterwards.<br>Shift click to unstack."
+  },
+  {
+    "name": "Apprentice Cartographer's Seal",
+    "image": "apprentice-cartographers-seal.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a white map on the Atlas to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Journeyman Cartographer's Seal",
+    "image": "journeyman-cartographers-seal.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click a yellow or white map on the Atlas to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Master Cartographer's Seal",
+    "image": "master-cartographers-seal.png",
+    "drop_level": 1,
+    "stack_size": 10,
+    "tab_stack_size": 5000,
+    "help_text": "Right click this item then left click any map on the Atlas to apply it.<br>Shift click to unstack."
+  },
+  {
+    "name": "Simple Rope Net",
+    "image": "simple-rope-net.png",
+    "drop_level": 2,
+    "stack_size": 100,
+    "tab_stack_size": 5000,
+    "help_text": "Shift click to unstack."
+  },
+  {
+    "name": "Reinforced Rope Net",
+    "image": "reinforced-rope-net.png",
+    "drop_level": 7,
+    "stack_size": 100,
+    "tab_stack_size": 5000,
+    "help_text": "Shift click to unstack."
+  },
+  {
+    "name": "Strong Rope Net",
+    "image": "strong-rope-net.png",
+    "drop_level": 15,
+    "stack_size": 100,
+    "tab_stack_size": 5000,
+    "help_text": "Shift click to unstack."
+  },
+  {
+    "name": "Simple Iron Net",
+    "image": "simple-iron-net.png",
+    "drop_level": 25,
+    "stack_size": 100,
+    "tab_stack_size": 5000,
+    "help_text": "Shift click to unstack."
+  },
+  {
+    "name": "Reinforced Iron Net",
+    "image": "reinforced-iron-net.png",
+    "drop_level": 37,
+    "stack_size": 100,
+    "tab_stack_size": 5000,
+    "help_text": "Shift click to unstack."
+  },
+  {
+    "name": "Strong Iron Net",
+    "image": "strong-iron-net.png",
+    "drop_level": 48,
+    "stack_size": 100,
+    "tab_stack_size": 5000,
+    "help_text": "Shift click to unstack."
+  },
+  {
+    "name": "Simple Steel Net",
+    "image": "simple-steel-net.png",
+    "drop_level": 58,
+    "stack_size": 100,
+    "tab_stack_size": 5000,
+    "help_text": "Shift click to unstack."
+  },
+  {
+    "name": "Reinforced Steel Net",
+    "image": "reinforced-steel-net.png",
+    "drop_level": 60,
+    "stack_size": 100,
+    "tab_stack_size": 5000,
+    "help_text": "Shift click to unstack."
+  },
+  {
+    "name": "Strong Steel Net",
+    "image": "strong-steel-net.png",
+    "drop_level": 64,
+    "stack_size": 100,
+    "tab_stack_size": 5000,
+    "help_text": "Shift click to unstack."
+  },
+  {
+    "name": "Thaumaturgical Net",
+    "image": "thaumaturgical-net.png",
+    "drop_level": 68,
+    "stack_size": 100,
+    "tab_stack_size": 5000,
+    "help_text": "Shift click to unstack."
+  },
+  {
+    "name": "Necromancy Net",
+    "image": "necromancy-net.png",
+    "drop_level": 68,
+    "stack_size": 100,
+    "tab_stack_size": 5000,
+    "help_text": "Shift click to unstack."
+  }
+]

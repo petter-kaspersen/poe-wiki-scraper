@@ -64,13 +64,12 @@ class CurrencyScraper(scrapy.Spider):
                 data.append({
                     "name": name,
                     "image": image,
-                    "drop_level": drop_level,
-                    "stack_size": stack_size,
-                    "tab_stack_size": tab_stack_size,
+                    "drop_level": int(drop_level) if drop_level is not None else None,
+                    "stack_size": int(stack_size) if stack_size is not None else None,
+                    "tab_stack_size": int(tab_stack_size) if tab_stack_size is not None else None,
                     "help_text": help_text
                  })
 
-
-
         with open("data/currency.json", "w") as currency_json:
             currency_json.write(json.dumps(data))
+

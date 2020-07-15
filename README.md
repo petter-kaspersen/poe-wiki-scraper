@@ -17,7 +17,22 @@ The folder structure is:
 	{item_name}.png
 ```
 
-You can find an example in the `example_response.json` file for how the .json file looks.
+Check out `example_*.json` for examples for the various JSON-responses.
+
+#### Responses
+
+##### Currency
+```json
+{
+	"name": "Exalted Orb",
+	"image": "exalted-orb.png",
+	"drop_level": 35,
+	"stack_size": 10,
+	"tab_stack_size": 5000,
+	"help_text": "Right click this item then left click a rare item to apply it. Rare items can have up to six random modifiers. The item's Catalyst quality increases the chance of applying a modifier which matches the quality type. Removes 20% Quality applied by Catalysts on use.<br>Shift click to unstack."
+}
+```
+
 
 ### Current supported scrapers:
 
