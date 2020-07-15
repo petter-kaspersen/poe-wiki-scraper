@@ -48,7 +48,7 @@ Check out `example_*.json` for examples for the various JSON-responses.
 }
 ```
 
-### Scarabs
+#### Scarabs
 ```json
 {
 	"name": "Gilded Ambush Scarab",
