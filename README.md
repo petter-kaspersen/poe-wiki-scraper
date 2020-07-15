@@ -48,11 +48,21 @@ Check out `example_*.json` for examples for the various JSON-responses.
 }
 ```
 
+### Scarabs
+```json
+{
+	"name": "Gilded Ambush Scarab",
+	"stats": "Area contains 5 extra Strongboxes",
+	"image": "gilded-ambush-scarab.png"
+}
+```
+
 
 ### Current supported scrapers:
 
 [Currency](https://pathofexile.gamepedia.com/Currency)
 [Divination cards](https://pathofexile.gamepedia.com/Divination_card)
+[Scarabs](https://pathofexile.gamepedia.com/Scarab)
 
 ### License
 Licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) as Gamepedia requires.

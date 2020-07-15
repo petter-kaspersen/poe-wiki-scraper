@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Gilded Ambush Scarab",
+    "image": "gilded-ambush-scarab.png",
+    "stats": "Area contains 5 extra Strongboxes"
+  },
+  {
+    "name": "Gilded Bestiary Scarab",
+    "image": "gilded-bestiary-scarab.png",
+    "stats": "Area contains 3 additional Red Beasts"
+  },
+  {
+    "name": "Gilded Breach Scarab",
+    "image": "gilded-breach-scarab.png",
+    "stats": "Area can contain Breaches<br>Area contains 3 additional Breaches"
+  },
+  {
+    "name": "Gilded Cartography Scarab",
+    "image": "gilded-cartography-scarab.png",
+    "stats": "50% more Maps found in Area"
+  },
+  {
+    "name": "Gilded Divination Scarab",
+    "image": "gilded-divination-scarab.png",
+    "stats": "150% more Divination Cards found in Area"
+  },
+  {
+    "name": "Gilded Elder Scarab",
+    "image": "gilded-elder-scarab.png",
+    "stats": "90% more Rare Elder Items found in Area"
+  },
+  {
+    "name": "Gilded Harbinger Scarab",
+    "image": "gilded-harbinger-scarab.png",
+    "stats": "Area contains 4 extra Harbingers"
+  },
+  {
+    "name": "Gilded Legion Scarab",
+    "image": "gilded-legion-scarab.png",
+    "stats": "Area contains an additional Legion Encounter<br>Each Legion contains a War Hoard<br>Each Legion is accompanied by a General"
+  },
+  {
+    "name": "Gilded Metamorph Scarab",
+    "image": "gilded-metamorph-scarab.png",
+    "stats": "Area contains Metamorph Monsters<br>All Metamorph Monsters have Rewards<br>Metamorph Bosses which drop an Itemised Sample drop an additional Itemised Sample"
+  },
+  {
+    "name": "Gilded Perandus Scarab",
+    "image": "gilded-perandus-scarab.png",
+    "stats": "Area contains 4 additional Perandus Chests<br>Area contains Cadiro Perandus"
+  },
+  {
+    "name": "Gilded Reliquary Scarab",
+    "image": "gilded-reliquary-scarab.png",
+    "stats": "150% more Unique Items found in Area"
+  },
+  {
+    "name": "Gilded Shaper Scarab",
+    "image": "gilded-shaper-scarab.png",
+    "stats": "90% more Rare Shaper Items found in Area"
+  },
+  {
+    "name": "Gilded Sulphite Scarab",
+    "image": "gilded-sulphite-scarab.png",
+    "stats": "Map owner gains 60% more Sulphite"
+  },
+  {
+    "name": "Gilded Torment Scarab",
+    "image": "gilded-torment-scarab.png",
+    "stats": "Area is haunted by 7 additional Tormented Spirits"
+  },
+  {
+    "name": "Polished Ambush Scarab",
+    "image": "polished-ambush-scarab.png",
+    "stats": "Area contains 4 extra Strongboxes"
+  },
+  {
+    "name": "Polished Bestiary Scarab",
+    "image": "polished-bestiary-scarab.png",
+    "stats": "Area contains 2 additional Red Beasts"
+  },
+  {
+    "name": "Polished Breach Scarab",
+    "image": "polished-breach-scarab.png",
+    "stats": "Area can contain Breaches<br>Area contains 2 additional Breaches"
+  },
+  {
+    "name": "Polished Cartography Scarab",
+    "image": "polished-cartography-scarab.png",
+    "stats": "35% more Maps found in Area"
+  },
+  {
+    "name": "Polished Divination Scarab",
+    "image": "polished-divination-scarab.png",
+    "stats": "100% more Divination Cards found in Area"
+  },
+  {
+    "name": "Polished Elder Scarab",
+    "image": "polished-elder-scarab.png",
+    "stats": "60% more Rare Elder Items found in Area"
+  },
+  {
+    "name": "Polished Harbinger Scarab",
+    "image": "polished-harbinger-scarab.png",
+    "stats": "Area contains 3 extra Harbingers"
+  },
+  {
+    "name": "Polished Legion Scarab",
+    "image": "polished-legion-scarab.png",
+    "stats": "Area contains an additional Legion Encounter<br>Each Legion contains a War Hoard"
+  },
+  {
+    "name": "Polished Metamorph Scarab",
+    "image": "polished-metamorph-scarab.png",
+    "stats": "Area contains Metamorph Monsters<br>Metamorph Bosses which drop an Itemised Sample drop an additional Itemised Sample"
+  },
+  {
+    "name": "Polished Perandus Scarab",
+    "image": "polished-perandus-scarab.png",
+    "stats": "Area contains 3 additional Perandus Chests<br>Area has a 66% chance to contain Cadiro Perandus"
+  },
+  {
+    "name": "Polished Reliquary Scarab",
+    "image": "polished-reliquary-scarab.png",
+    "stats": "100% more Unique Items found in Area"
+  },
+  {
+    "name": "Polished Shaper Scarab",
+    "image": "polished-shaper-scarab.png",
+    "stats": "60% more Rare Shaper Items found in Area"
+  },
+  {
+    "name": "Polished Sulphite Scarab",
+    "image": "polished-sulphite-scarab.png",
+    "stats": "Map owner gains 40% more Sulphite"
+  },
+  {
+    "name": "Polished Torment Scarab",
+    "image": "polished-torment-scarab.png",
+    "stats": "Area is haunted by 5 additional Tormented Spirits"
+  },
+  {
+    "name": "Rusted Ambush Scarab",
+    "image": "rusted-ambush-scarab.png",
+    "stats": "Area contains 3 extra Strongboxes"
+  },
+  {
+    "name": "Rusted Bestiary Scarab",
+    "image": "rusted-bestiary-scarab.png",
+    "stats": "Area contains 1 additional Red Beast"
+  },
+  {
+    "name": "Rusted Breach Scarab",
+    "image": "rusted-breach-scarab.png",
+    "stats": "Area can contain Breaches<br>Area contains an additional Breach"
+  },
+  {
+    "name": "Rusted Cartography Scarab",
+    "image": "rusted-cartography-scarab.png",
+    "stats": "20% more Maps found in Area"
+  },
+  {
+    "name": "Rusted Divination Scarab",
+    "image": "rusted-divination-scarab.png",
+    "stats": "50% more Divination Cards found in Area"
+  },
+  {
+    "name": "Rusted Elder Scarab",
+    "image": "rusted-elder-scarab.png",
+    "stats": "30% more Rare Elder Items found in Area"
+  },
+  {
+    "name": "Rusted Harbinger Scarab",
+    "image": "rusted-harbinger-scarab.png",
+    "stats": "Area contains 2 extra Harbingers"
+  },
+  {
+    "name": "Rusted Legion Scarab",
+    "image": "rusted-legion-scarab.png",
+    "stats": "Area contains an additional Legion Encounter"
+  },
+  {
+    "name": "Rusted Metamorph Scarab",
+    "image": "rusted-metamorph-scarab.png",
+    "stats": "Area contains Metamorph Monsters"
+  },
+  {
+    "name": "Rusted Perandus Scarab",
+    "image": "rusted-perandus-scarab.png",
+    "stats": "Area contains 2 additional Perandus Chests<br>Area has a 33% chance to contain Cadiro Perandus"
+  },
+  {
+    "name": "Rusted Reliquary Scarab",
+    "image": "rusted-reliquary-scarab.png",
+    "stats": "50% more Unique Items found in Area"
+  },
+  {
+    "name": "Rusted Shaper Scarab",
+    "image": "rusted-shaper-scarab.png",
+    "stats": "30% more Rare Shaper Items found in Area"
+  },
+  {
+    "name": "Rusted Sulphite Scarab",
+    "image": "rusted-sulphite-scarab.png",
+    "stats": "Map owner gains 20% more Sulphite"
+  },
+  {
+    "name": "Rusted Torment Scarab",
+    "image": "rusted-torment-scarab.png",
+    "stats": "Area is haunted by 3 additional Tormented Spirits"
+  },
+  {
+    "name": "Winged Ambush Scarab",
+    "image": "winged-ambush-scarab.png",
+    "stats": "Area contains 9 extra Strongboxes"
+  },
+  {
+    "name": "Winged Bestiary Scarab",
+    "image": "winged-bestiary-scarab.png",
+    "stats": "Area contains 5 additional Red Beasts"
+  },
+  {
+    "name": "Winged Breach Scarab",
+    "image": "winged-breach-scarab.png",
+    "stats": "Area can contain Breaches<br>Area contains 5 additional Breaches"
+  },
+  {
+    "name": "Winged Cartography Scarab",
+    "image": "winged-cartography-scarab.png",
+    "stats": "85% more Maps found in Area"
+  },
+  {
+    "name": "Winged Divination Scarab",
+    "image": "winged-divination-scarab.png",
+    "stats": "250% more Divination Cards found in Area"
+  },
+  {
+    "name": "Winged Elder Scarab",
+    "image": "winged-elder-scarab.png",
+    "stats": "150% more Rare Elder Items found in Area"
+  },
+  {
+    "name": "Winged Harbinger Scarab",
+    "image": "winged-harbinger-scarab.png",
+    "stats": "Area contains 7 extra Harbingers"
+  },
+  {
+    "name": "Winged Legion Scarab",
+    "image": "winged-legion-scarab.png",
+    "stats": "Area contains 2 additional Legion Encounters<br>Each Legion contains a War Hoard<br>Each Legion is accompanied by a General"
+  },
+  {
+    "name": "Winged Metamorph Scarab",
+    "image": "winged-metamorph-scarab.png",
+    "stats": "Area contains Metamorph Monsters<br>All Metamorph Monsters have Rewards<br>Metamorph Bosses which drop an Itemised Sample drop 2 additional Itemised Samples"
+  },
+  {
+    "name": "Winged Perandus Scarab",
+    "image": "winged-perandus-scarab.png",
+    "stats": "Area contains 7 additional Perandus Chests<br>Area contains Cadiro Perandus"
+  },
+  {
+    "name": "Winged Reliquary Scarab",
+    "image": "winged-reliquary-scarab.png",
+    "stats": "250% more Unique Items found in Area"
+  },
+  {
+    "name": "Winged Shaper Scarab",
+    "image": "winged-shaper-scarab.png",
+    "stats": "150% more Rare Shaper Items found in Area"
+  },
+  {
+    "name": "Winged Sulphite Scarab",
+    "image": "winged-sulphite-scarab.png",
+    "stats": "Map owner gains 100% more Sulphite"
+  },
+  {
+    "name": "Winged Torment Scarab",
+    "image": "winged-torment-scarab.png",
+    "stats": "Area is haunted by 12 additional Tormented Spirits"
+  }
+]

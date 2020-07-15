@@ -15,5 +15,6 @@ process = CrawlerProcess(get_project_settings())
 
 process.crawl('currency')
 process.crawl("divination")
+process.crawl("scarabs")
 
 process.start()
