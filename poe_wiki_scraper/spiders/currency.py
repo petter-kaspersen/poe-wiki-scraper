@@ -15,30 +15,62 @@ class CurrencyScraper(scrapy.Spider):
     except OSError:
         pass
 
+    def extract_image_and_name(self, td):
+        image_selector = td.xpath(".//img/@src").get()
+        name = td.xpath(".//a/@title").get()
+
+        image_response = requests.get(image_selector).content
+
+        image = "{}.png".format(name.replace(" ", "-").replace("'", "").lower())
+
+        with open("data/images/currency/{}".format(image), "wb") as image_handler:
+                     image_handler.write(image_response)
+
+        return [name, image]
+
 
     def parse(self, response):
         data = []
 
-        res = response.css(".c-item-hoverbox__activator")
+        res = response.css(".item-table tbody tr")
+
 
         for row in res:
-            image = row.xpath(".//img/@src").get()
-            name = row.xpath(".//a/@title").get()
+            name = None
+            image = None
+            drop_level = None
+            stack_size = None
+            tab_stack_size = None
+            help_text = None
 
-            image_response = requests.get(image).content
 
-            image_name = "{}.png".format(name.replace(" ", "-").replace("'", "").lower())
+            td_xpath = row.xpath(".//td")
 
-            with open("data/images/currency/{}".format(image_name), "wb") as image_handler:
-                image_handler.write(image_response)
 
-            is_inside = [x for x in data if x["name"] == name]
+            if len(td_xpath) == 4:
+                [name, image] = self.extract_image_and_name(td_xpath[0])
+                drop_level = td_xpath[1].xpath("./@data-sort-value").get()
+                effects = td_xpath[2].xpath(".//@data-sort-value").get()
+                help_text = td_xpath[3].xpath(".//@data-sort-value").get()
+            elif len(td_xpath) == 5:
+                [name, image] = self.extract_image_and_name(td_xpath[0])
+                drop_level = td_xpath[1].xpath("./@data-sort-value").get()
+                stack_size = td_xpath[2].xpath("./@data-sort-value").get()
+                tab_stack_size = td_xpath[3].xpath("./@data-sort-value").get()
+                help_text = td_xpath[4].xpath("./@data-sort-value").get()
 
-            if len(is_inside) <= 0:
+
+            if name != None:
                 data.append({
-                    "image": image_name,
-                    "name": name
-                })
+                    "name": name,
+                    "image": image,
+                    "drop_level": drop_level,
+                    "stack_size": stack_size,
+                    "tab_stack_size": tab_stack_size,
+                    "help_text": help_text
+                 })
+
+
 
         with open("data/currency.json", "w") as currency_json:
             currency_json.write(json.dumps(data))
