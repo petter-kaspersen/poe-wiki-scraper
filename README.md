@@ -37,13 +37,13 @@ Check out `example_*.json` for examples for the various JSON-responses.
 ```json
 {
 	"name": "A Dab of Ink",
-    "stack_size": 9,
-    "drop_areas": [
-      "The Library",
-      "Academy Map",
-      "Museum Map",
-      "Scriptorium Map"
-    ],
+	"stack_size": 9,
+	"drop_areas": [
+		"The Library",
+		"Academy Map",
+		"Museum Map",
+		"Scriptorium Map"
+	],
 	"drop_restrictions": null
 }
 ```
