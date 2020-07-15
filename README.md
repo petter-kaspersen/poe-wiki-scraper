@@ -19,7 +19,7 @@ The folder structure is:
 
 Check out `example_*.json` for examples for the various JSON-responses.
 
-#### Responses
+### Responses
 
 ##### Currency
 ```json
