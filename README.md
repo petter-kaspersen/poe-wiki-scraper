@@ -61,7 +61,9 @@ Check out `example_*.json` for examples for the various JSON-responses.
 ### Current supported scrapers:
 
 [Currency](https://pathofexile.gamepedia.com/Currency)
+
 [Divination cards](https://pathofexile.gamepedia.com/Divination_card)
+
 [Scarabs](https://pathofexile.gamepedia.com/Scarab)
 
 ### License
